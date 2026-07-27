@@ -1,0 +1,2001 @@
+event_id,customer_id,event_type,page_url,event_timestamp,device_type
+1861,7.0, purchase ,/help,2025-02-05 08:29:38,Tablet
+354,83.0,Page_View,/product/101,2025-07-13 20:51:00,MOBILE
+1334,97.0,CLICK ,/account,03/03/2025 18:50,
+906,91.0,ADD TO CART,/orders,04/06/2025 06:10,MOBILE
+1290,25.0, page_view,/orders,2025-01-15 20:47:38,MOBILE
+1274,13.0,pageview,/account,13/03/2025 20:37,Desktop
+939,6.0, purchase ,/checkout,03/06/2025 21:23,Tablet
+1732,79.0,Click,/search,2025-04-27T00:54:10Z,tablet
+66,44.0,Search,/product/105,22/05/2025 05:21,
+1324,7.0,logout,/cart,16/02/2025 00:45,MOBILE
+57,78.0,clik,/checkout,2025-04-12T10:18:47Z,
+1293,6.0,purchase,/home,2025-01-01 21:16:56,tablet
+1119,36.0,add_to_cart,/search,2025-06-12T00:20:22Z,
+585,10.0,Logout,/checkout,2025-03-26T08:19:47Z,desktop
+375,58.0,SEARCH,/cart,2025-01-07T19:05:03Z,Desktop
+276,75.0,Purchase,/checkout,2025-03-05T05:31:05Z,Tablet
+747,86.0,CLICK ,,28/04/2025 04:31,mobile
+129,22.0, purchase ,/checkout,2025-01-26T15:50:55Z,Desktop
+1647,10.0, page_view,/cart,11/06/2025 07:38,mobile
+1853,,Logout,/products,2025-03-10T08:05:10Z,Mobile
+675,37.0,purchase,/account,2025-07-07T04:30:31Z,
+1665,93.0,Add_To_Cart,/products,2025-07-03 13:51:09,mobile
+1982,89.0,Page_View,/orders,01/02/2025 00:00,desktop
+1084,21.0,log_out,/product/101,2025-01-07T22:13:24Z,MOBILE
+1923,53.0,click,/account,2025-01-19T14:59:36Z,tablet
+100,33.0,logout,/product/105,2025-01-01 01:54:55,Desktop
+1180,54.0, page_view,/search,2025-05-02 13:24:20,MOBILE
+965,91.0,CLICK ,/checkout,2025-04-24T10:50:28Z,desktop
+793,89.0,add_to_cart,/product/101,27/04/2025 04:00,tablet
+30,99.0,Add_To_Cart,/cart,19/06/2025 16:14,desktop
+629,35.0,serach,,2025-02-13 15:00:06,tablet
+945,79.0,click,/checkout,2025-02-25T13:17:47Z,MOBILE
+573,24.0,PAGEVIEW,/home,08/01/2025 17:07,
+908,99.0,serach,/product/105,2025-02-18T12:23:11Z,Mobile
+1081,57.0,PURCHASE,/checkout,2025-04-13 04:46:33,Desktop
+451,87.0,add_to_cart,/products,2025-05-14 15:50:29,desktop
+1610,16.0,click,/help,07/01/2025 11:31,desktop
+1291,41.0,pageview,/cart,2025-03-08 05:05:34,
+1079,82.0,PURCHASE,/product/101,2025-01-06 13:51:19,Mobile
+255,72.0, page_view,/products,16/01/2025 06:52,mobile
+125,79.0,Click,/account,2025-06-26T09:08:11Z,Mobile
+1928,84.0,serach,/account,07/06/2025 23:47,Desktop
+252,44.0, purchase ,/product/105,12/07/2025 11:23,desktop
+586,78.0,SEARCH,/home,14/03/2025 11:50,Mobile
+1569,74.0,Add_To_Cart,/product/105,03/03/2025 04:46,MOBILE
+825,33.0,SEARCH,/product/105,2025-02-11 13:52:33,mobile
+508,27.0,Click,/account,18/05/2025 06:05,MOBILE
+890,, purchase ,/checkout,2025-07-02T03:28:14Z,Mobile
+71,54.0,log_out,/account,2025-06-12T17:44:58Z,MOBILE
+1609,78.0,PURCHASE,/cart,2025-05-12T21:46:50Z,Tablet
+1533,30.0,page_view,/home,15/03/2025 21:39,Mobile
+248,87.0,purchase,/orders,04/05/2025 11:39,desktop
+1451,97.0,Search,/product/105,2025-01-28T07:13:30Z,tablet
+213,93.0,ADD TO CART,/product/101,2025-03-02 03:18:39,Desktop
+910,36.0,purchase,/cart,2025-01-15T18:52:01Z,
+1742,61.0,SEARCH,/orders,01/03/2025 06:25,
+1245,25.0,purchase,/product/105,19/07/2025 15:35,tablet
+1697,45.0, purchase ,/product/101,2025-04-19 05:11:54,mobile
+1183,78.0,ADD TO CART,/product/105,2025-05-22 18:20:48,MOBILE
+362,35.0,LOG OUT,/home,2025-05-26 15:45:23,
+1474,45.0,serach,/orders,2025-05-22 11:52:40,Tablet
+679,95.0,Purchase,/cart,2025-06-14 16:52:57,
+1622,67.0,add_to_cart,/product/105,2025-01-03 18:28:08,MOBILE
+1090,32.0,Search,/search,11/01/2025 04:56,tablet
+85,32.0,CLICK ,/account,09/03/2025 13:46,
+1848,22.0,PAGEVIEW,/cart,02/03/2025 19:02,
+988,36.0,PURCHASE,/products,2025-07-11T02:20:49Z,tablet
+1513,18.0, page_view,/orders,2025-07-17 11:00:30,Mobile
+112,23.0, purchase ,/orders,2025-03-05 03:29:06,mobile
+1488,12.0,log_out,/cart,2025-02-03T06:53:35Z,Desktop
+1454,90.0,pageview,/account,17/01/2025 15:48,mobile
+384,6.0,Search,/cart,28/01/2025 20:44,mobile
+1396,58.0,log_out,/home,2025-02-14 14:04:10,Tablet
+1055,20.0,Logout,/search,17/07/2025 05:32,Mobile
+756,54.0, page_view,,2025-02-09T11:53:52Z,Tablet
+325,76.0, purchase ,/search,2025-06-03T00:15:56Z,desktop
+1624,61.0,Click,/home,11/01/2025 09:17,desktop
+788,11.0,Click,/account,11/05/2025 10:03,Tablet
+369,97.0,Purchase,/search,12/02/2025 06:36,Mobile
+1820,44.0,Page_View,/orders,2025-04-25 15:21:51,MOBILE
+70,87.0,add_to_cart,/product/101,03/03/2025 09:07,MOBILE
+858,68.0,log_out,/orders,2025-03-23T08:12:53Z,desktop
+1484,27.0,add_to_cart,/search,2025-02-25T14:45:50Z,mobile
+1556,,Page_View,/home,2025-07-02 22:09:14,MOBILE
+1692,87.0, purchase ,/products,2025-07-19 19:22:41,Mobile
+1475,66.0,click,/orders,01/03/2025 16:20,Tablet
+1799,,page_view,/home,2025-02-11T11:19:12Z,desktop
+479,88.0,add-to-cart,/search,2025-02-04T08:11:43Z,Tablet
+282,69.0,clik,/orders,14/03/2025 10:26,mobile
+1648,80.0,SEARCH,/product/101,2025-07-08 03:31:06,MOBILE
+1557,64.0,click,/product/105,2025-02-19 01:57:49,
+1730,97.0,purchase,/checkout,2025-03-16 14:42:15,Tablet
+211,96.0,SEARCH,/product/105,2025-06-15 16:09:10,Desktop
+298,90.0,clik,/orders,2025-04-12T20:36:12Z,
+1885,23.0,PURCHASE,/products,2025-01-01T19:21:14Z,Tablet
+1834,24.0,Purchase,/search,2025-02-16 01:45:11,MOBILE
+652,91.0,Search,/help,2025-06-28 15:18:57,Desktop
+1234,97.0,ADD TO CART,/home,10/06/2025 02:30,
+1503,31.0,Page_View,/account,2025-07-15T11:29:54Z,
+1932,30.0,click,/help,2025-04-20 13:38:51,desktop
+917,3.0,Page_View,/checkout,2025-07-05T07:19:53Z,Desktop
+994,60.0,click,/account,2025-04-30T14:56:56Z,MOBILE
+430,1.0,add-to-cart,/products,2025-03-15T13:11:31Z,Desktop
+1371,,add_to_cart,/orders,2025-01-20T03:58:30Z,
+240,30.0,search,/checkout,01/01/2025 05:05,Tablet
+880,88.0,ADD TO CART,/orders,20/07/2025 13:03,desktop
+400,55.0,Add_To_Cart,/orders,07/03/2025 12:29,desktop
+257,84.0,CLICK ,/checkout,11/05/2025 15:49,mobile
+612,82.0,SEARCH,/search,05/01/2025 19:58,tablet
+545,42.0,page_view,/product/105,2025-06-02T18:15:31Z,
+772,,search,/checkout,2025-05-26T10:57:14Z,mobile
+1420,,serach,/orders,2025-04-26 12:17:48,
+1042,73.0,clik,/help,10/04/2025 23:16,desktop
+1790,53.0,CLICK ,/products,02/02/2025 14:42,
+619,,search,/help,2025-07-10T23:08:29Z,Tablet
+383,39.0,search,/checkout,29/03/2025 02:53,Desktop
+1104,74.0,search,/products,2025-03-24T07:10:25Z,desktop
+974,92.0,pageview,/cart,2025-01-24 23:12:46,MOBILE
+353,77.0,logout,/search,2025-04-14T02:38:06Z,tablet
+1606,73.0,purchase,/help,02/05/2025 06:04,
+1826,50.0,Logout,/checkout,12/07/2025 12:43,MOBILE
+1037,57.0,Click,,2025-02-18T18:19:58Z,
+1108,94.0,PURCHASE,/search,2025-03-18T15:20:34Z,Desktop
+495,, purchase ,/search,10/03/2025 19:42,Mobile
+394,92.0,PAGEVIEW,/checkout,2025-05-23T07:12:07Z,mobile
+930,15.0,Add_To_Cart,/product/105,21/05/2025 00:11,MOBILE
+465,99.0,logout,/orders,2025-04-29T04:15:09Z,desktop
+887,10.0,serach,,2025-05-19 19:58:09,tablet
+1194,24.0,Add_To_Cart,/orders,2025-01-24T19:03:36Z,MOBILE
+367,36.0,add_to_cart,/products,01/06/2025 23:09,Tablet
+1894,16.0,Click,/product/101,2025-05-02 18:41:17,Mobile
+1874,60.0,Logout,/account,2025-06-27T01:26:01Z,MOBILE
+745,34.0,page_view,/account,12/07/2025 09:10,tablet
+530,31.0,Logout,/checkout,2025-06-20 22:36:43,tablet
+370,85.0,PAGEVIEW,/product/101,2025-03-14T16:42:49Z,MOBILE
+1224,86.0, purchase ,/checkout,20/03/2025 09:41,tablet
+1979,3.0,add_to_cart,/products,2025-02-18 07:48:51,
+1906,69.0,purchase,/account,2025-06-14T08:42:14Z,mobile
+1700,1.0,Page_View,/cart,2025-03-31T06:06:10Z,Mobile
+1545,24.0,log_out,/cart,12/01/2025 07:53,MOBILE
+1314,74.0,LOG OUT,/product/105,2025-05-16 15:21:53,MOBILE
+307,51.0,PAGEVIEW,/checkout,2025-03-19 07:32:17,desktop
+1667,66.0,logout,/products,07/06/2025 14:09,desktop
+863,61.0,click,,2025-02-12T02:08:32Z,tablet
+1567,72.0,Add_To_Cart,/products,2025-05-12T20:56:02Z,
+531,32.0,Logout,/checkout,07/02/2025 22:27,mobile
+655,20.0,Purchase,/home,2025-04-12T15:19:44Z,MOBILE
+1260,83.0,Search,/product/101,2025-03-01T07:47:02Z,mobile
+234,16.0,Purchase,/checkout,2025-01-28T04:27:41Z,desktop
+121,4.0,Add_To_Cart,/help,07/05/2025 17:19,Mobile
+1698,43.0,SEARCH,/search,08/03/2025 15:19,desktop
+950,74.0,serach,/orders,22/01/2025 06:47,desktop
+618,17.0,Logout,/product/105,2025-04-20 23:29:19,Desktop
+1179,49.0,purchase,/products,2025-03-07T15:29:59Z,desktop
+308,4.0,Add_To_Cart,/product/101,2025-04-11T21:08:05Z,tablet
+136,6.0,PURCHASE,/product/105,2025-05-25T01:09:48Z,mobile
+555,88.0,Add_To_Cart,/products,2025-06-10 09:51:45,Desktop
+1674,70.0,Purchase,/account,2025-03-05 13:35:19,Mobile
+584,34.0,add_to_cart,/cart,12/05/2025 17:41,Desktop
+1641,34.0,log_out,/products,02/05/2025 20:40,Tablet
+671,95.0,log_out,/search,2025-03-08T00:43:32Z,MOBILE
+835,49.0,search,/orders,10/04/2025 12:44,tablet
+110,46.0,clik,/cart,2025-01-31T02:10:51Z,desktop
+1165,86.0,SEARCH,/orders,18/01/2025 21:11,mobile
+1960,76.0,Page_View,/home,02/03/2025 20:01,MOBILE
+1465,44.0,pageview,/search,2025-03-20T10:14:12Z,Mobile
+1729,66.0,Purchase,/product/105,2025-06-08T01:45:00Z,Tablet
+1243,46.0,CLICK ,/home,2025-06-08 02:04:10,Tablet
+212,33.0,click,/orders,2025-05-21 02:18:42,desktop
+1768,36.0,click,/product/101,12/02/2025 06:47,MOBILE
+1121,8.0,CLICK ,/product/105,2025-04-19 22:52:54,desktop
+680,63.0,pageview,/search,2025-04-01T03:00:22Z,MOBILE
+1951,93.0,SEARCH,/product/105,2025-02-21 21:54:58,tablet
+1839,4.0, purchase ,/home,21/01/2025 12:59,Mobile
+412,45.0,logout,/search,23/06/2025 17:57,Tablet
+1325,77.0,log_out,/help,2025-04-07T21:18:53Z,
+783,92.0,Logout,/product/105,2025-01-20 15:03:13,Desktop
+1346,22.0,add_to_cart,/product/101,2025-03-17 16:02:52,tablet
+875,20.0,clik,/cart,2025-06-12T02:33:54Z,Desktop
+1653,88.0,LOG OUT,/product/105,2025-04-25T15:16:39Z,MOBILE
+1279,27.0,add-to-cart,/home,2025-02-27 19:08:02,Desktop
+786,52.0,add-to-cart,/product/101,28/05/2025 20:06,mobile
+1819,36.0,PURCHASE,/product/101,30/05/2025 13:54,
+1199,49.0,add-to-cart,/orders,2025-06-23T12:35:34Z,tablet
+808,55.0, purchase ,/home,2025-01-07 13:05:48,desktop
+713,15.0,ADD TO CART,/products,2025-01-31 11:59:59,Mobile
+1991,2.0,Logout,/product/101,2025-07-18 13:18:13,MOBILE
+1660,69.0,Click,/products,2025-01-22 05:54:09,MOBILE
+1191,56.0,purchase,/account,28/02/2025 08:23,
+1226,16.0,Purchase,/product/101,2025-03-14T10:44:20Z,Desktop
+603,11.0,clik,/product/101,2025-03-13 05:10:53,mobile
+271,60.0,PAGEVIEW,/products,07/02/2025 01:17,mobile
+1385,37.0,pageview,/product/105,2025-02-14 22:34:51,MOBILE
+232,62.0,PURCHASE,/help,14/07/2025 22:36,MOBILE
+50,58.0,add-to-cart,/account,2025-05-30T21:24:05Z,desktop
+463,70.0, purchase ,/cart,2025-04-27 21:48:35,Mobile
+1106,21.0, page_view,/checkout,16/01/2025 19:48,mobile
+856,66.0,SEARCH,/product/105,2025-05-30 01:42:46,tablet
+694,76.0,Add_To_Cart,/cart,2025-04-09 02:56:06,mobile
+1552,78.0,log_out,/product/101,2025-03-12 10:56:19,mobile
+485,79.0,search,/help,2025-04-05 06:34:39,MOBILE
+527,69.0,Search,/orders,2025-03-14T06:05:32Z,desktop
+174,12.0,Add_To_Cart,/products,2025-04-27T08:53:24Z,
+721,54.0,click,/product/101,2025-06-28T22:09:24Z,Mobile
+415,54.0,search,/cart,2025-01-06T07:53:33Z,Tablet
+238,56.0,Add_To_Cart,/checkout,10/01/2025 23:24,
+1473,94.0,click,/product/105,28/02/2025 23:48,Tablet
+1336,8.0,Purchase,/products,2025-02-19 19:21:52,Mobile
+1064,27.0,logout,/home,22/02/2025 22:07,Mobile
+24,9.0,purchase,/cart,2025-07-16T04:49:41Z,tablet
+1767,36.0,log_out,/cart,2025-01-11 16:10:07,
+64,4.0,add-to-cart,/products,06/07/2025 04:22,
+290,99.0,SEARCH,/checkout,2025-04-25 12:00:46,desktop
+189,78.0,CLICK ,/account,2025-03-17 14:51:08,tablet
+702,7.0,Click,/orders,16/06/2025 11:40,Tablet
+1815,28.0,search,/help,2025-02-26T18:08:18Z,desktop
+1138,36.0,add-to-cart,/account,2025-02-10 03:03:23,Desktop
+355,38.0,log_out,/product/105,2025-03-23T09:36:50Z,desktop
+417,40.0,Add_To_Cart,/search,15/03/2025 01:09,
+1246,48.0,page_view,/search,27/05/2025 11:01,Tablet
+931,94.0,log_out,/orders,2025-05-06 21:47:37,Desktop
+197,26.0,CLICK ,/search,2025-06-24T02:11:11Z,
+580,67.0,ADD TO CART,/orders,2025-07-03T15:30:17Z,tablet
+1135,87.0,LOG OUT,/checkout,15/06/2025 20:14,Desktop
+1814,50.0,purchase,/product/105,12/01/2025 20:33,MOBILE
+1935,1.0,add-to-cart,/cart,2025-02-11T10:14:04Z,Desktop
+434,24.0,Logout,/orders,22/03/2025 21:51,Tablet
+101,47.0,Click,/home,2025-07-02 23:41:26,Tablet
+1655,21.0,Logout,/home,2025-04-13 11:34:05,MOBILE
+395,98.0,Logout,/search,2025-06-18 06:17:03,mobile
+1939,37.0,PAGEVIEW,/search,2025-04-24 23:34:26,Desktop
+221,6.0,Purchase,/products,2025-03-01T01:42:13Z,Tablet
+1676,94.0,Add_To_Cart,/search,06/07/2025 02:33,Mobile
+1498,91.0,CLICK ,/home,2025-05-19T10:06:25Z,desktop
+1785,12.0,Search,/product/105,2025-02-02T18:47:59Z,tablet
+345,91.0,Logout,/product/101,2025-06-06 10:34:28,MOBILE
+1028,14.0,ADD TO CART,/cart,26/03/2025 13:42,Tablet
+889,74.0,add-to-cart,/products,15/04/2025 17:17,
+1351,74.0,search,/search,31/05/2025 17:46,tablet
+553,90.0,purchase,/products,21/06/2025 14:43,tablet
+744,82.0,click,/cart,18/03/2025 22:28,
+1542,13.0,search,,2025-04-18 21:02:22,Mobile
+539,51.0, page_view,/cart,2025-02-12T22:01:36Z,desktop
+907,72.0,SEARCH,/products,2025-04-22 20:22:11,Tablet
+1395,51.0,pageview,/checkout,06/03/2025 18:51,mobile
+116,58.0,pageview,/help,2025-06-15T09:31:26Z,
+830,10.0,CLICK ,/account,2025-05-20T22:57:07Z,
+1938,67.0,clik,/home,07/07/2025 05:51,desktop
+809,75.0,CLICK ,/home,2025-04-11 04:25:42,
+388,27.0,pageview,/products,2025-04-17T03:35:08Z,
+1005,89.0,page_view,/help,2025-07-09T21:18:23Z,tablet
+306,69.0,clik,/orders,2025-01-06T01:15:59Z,desktop
+1101,14.0,Page_View,/product/105,2025-01-21 05:05:45,Mobile
+480,26.0,Add_To_Cart,/account,2025-05-27T07:01:01Z,Desktop
+1424,91.0,pageview,/account,17/05/2025 16:43,tablet
+1076,1.0,logout,/account,2025-01-31 07:48:40,
+571,61.0,PURCHASE,/help,27/03/2025 19:19,MOBILE
+619,23.0,ADD TO CART,/help,12/06/2025 06:17,mobile
+1898,8.0,log_out,/products,2025-04-13 21:46:28,tablet
+1266,29.0,SEARCH,/search,11/03/2025 05:30,MOBILE
+79,36.0,Click,/product/105,2025-03-24T07:48:53Z,tablet
+1912,12.0,logout,/account,25/06/2025 03:46,mobile
+33,72.0,Purchase,/account,22/02/2025 10:41,Tablet
+1538,6.0,clik,/orders,2025-06-24 04:45:56,Desktop
+1034,82.0,Click,/orders,21/05/2025 20:20,Tablet
+1563,6.0,serach,/product/101,2025-05-12 12:23:23,desktop
+352,56.0,Add_To_Cart,/product/101,2025-01-20T23:59:45Z,
+164,39.0,PURCHASE,/account,04/02/2025 10:57,Desktop
+204,11.0,click,/products,11/06/2025 06:55,mobile
+1054,73.0,Page_View,/product/105,08/05/2025 05:34,mobile
+1365,96.0,ADD TO CART,/cart,15/05/2025 12:29,Desktop
+1967,53.0,Purchase,/cart,08/01/2025 14:00,MOBILE
+496,58.0,Search,/product/105,2025-06-14 09:20:51,mobile
+1625,9.0,Logout,/help,08/01/2025 04:57,mobile
+1966,88.0, page_view,/help,2025-03-22 22:26:24,Desktop
+1963,64.0,SEARCH,/cart,11/06/2025 18:08,desktop
+611,14.0,Logout,/cart,03/06/2025 10:40,MOBILE
+433,7.0,PURCHASE,/home,2025-05-16T20:59:04Z,Desktop
+1492,49.0,pageview,/help,23/05/2025 21:30,mobile
+219,99.0,Add_To_Cart,/search,2025-01-24 12:23:32,Desktop
+1931,96.0,Search,/cart,2025-03-26 19:45:41,Mobile
+1466,32.0,ADD TO CART,/account,2025-07-20 04:54:40,tablet
+631,58.0,Click,/product/105,16/02/2025 06:16,
+1382,9.0,ADD TO CART,,2025-02-22T20:40:27Z,MOBILE
+1302,6.0,add-to-cart,/product/101,2025-07-12 11:48:18,MOBILE
+60,39.0,Search,/account,2025-01-19T14:38:30Z,tablet
+299,10.0,PURCHASE,/help,21/06/2025 13:27,Desktop
+1711,94.0,logout,/products,28/01/2025 11:27,Desktop
+74,29.0,Add_To_Cart,/orders,19/07/2025 14:36,
+2,81.0,CLICK ,/cart,2025-04-09 16:37:19,mobile
+1275,31.0,PAGEVIEW,/help,2025-06-11T07:02:30Z,desktop
+1594,98.0,add-to-cart,/search,2025-04-24 08:08:09,Desktop
+1434,77.0,logout,/help,04/01/2025 02:45,MOBILE
+1613,26.0,add-to-cart,/home,2025-03-26 01:01:26,Tablet
+592,73.0,SEARCH,/products,2025-06-22T17:11:02Z,
+317,91.0,logout,/search,11/01/2025 07:33,Mobile
+46,13.0,Page_View,/product/105,2025-06-27 18:30:17,mobile
+1720,35.0,clik,/search,2025-02-10 16:25:33,mobile
+1832,33.0,Add_To_Cart,/checkout,2025-01-15T23:30:32Z,
+428,53.0,add-to-cart,/product/101,2025-07-01 18:48:58,Desktop
+582,48.0,Page_View,/products,2025-05-13 11:14:37,
+77,76.0,serach,/product/101,2025-07-20 06:52:13,Tablet
+1148,35.0,purchase,/product/105,16/06/2025 14:00,Desktop
+1415,80.0,search,/account,2025-06-01 00:26:14,MOBILE
+781,22.0,log_out,/products,07/02/2025 18:56,
+1920,16.0,serach,/search,05/04/2025 08:45,MOBILE
+1174,12.0,add_to_cart,/cart,2025-03-11 09:38:32,Tablet
+1320,33.0,add_to_cart,/account,16/02/2025 13:36,
+938,44.0,SEARCH,/product/105,07/06/2025 23:55,Mobile
+31,76.0,clik,/orders,2025-03-30T20:42:24Z,Tablet
+1092,11.0,Page_View,/product/101,2025-06-23 12:58:09,Desktop
+1616,,ADD TO CART,/products,2025-02-11 14:26:43,tablet
+1230,22.0,purchase,/search,2025-03-27 04:02:56,Desktop
+975,8.0,clik,/search,2025-07-20T01:20:50Z,mobile
+1085,96.0,clik,/help,20/02/2025 04:26,Desktop
+515,17.0,clik,/products,2025-05-07T09:15:13Z,Mobile
+1551,99.0,clik,/orders,2025-06-29 19:54:13,
+1568,77.0,logout,/help,07/02/2025 20:15,mobile
+1811,38.0,Click,/account,2025-02-11 03:25:37,tablet
+1574,9.0,Add_To_Cart,/products,2025-03-15T11:01:34Z,Mobile
+45,49.0,purchase,/home,2025-01-22T15:54:27Z,Tablet
+1257,22.0,log_out,/home,2025-02-13 03:53:56,MOBILE
+169,16.0, page_view,/product/105,2025-07-19 08:53:33,Tablet
+304,90.0, page_view,/home,2025-06-19T08:42:54Z,Tablet
+991,30.0,Add_To_Cart,/cart,2025-07-11T00:08:07Z,tablet
+556,47.0,Purchase,/home,13/06/2025 12:07,
+1925,95.0, purchase ,/search,17/02/2025 11:58,Mobile
+608,6.0,PAGEVIEW,/checkout,2025-02-18T19:13:59Z,tablet
+1619,33.0,add_to_cart,/account,2025-06-04T18:15:48Z,Desktop
+758,82.0,Search,/account,2025-05-13 05:27:14,MOBILE
+256,97.0,click,/home,2025-05-12 18:03:30,desktop
+583,44.0, purchase ,/account,2025-05-08 10:17:24,MOBILE
+1519,33.0,purchase,/account,2025-01-23T19:50:46Z,MOBILE
+528,97.0,page_view,/orders,2025-03-03T09:46:27Z,mobile
+343,98.0,CLICK ,/product/105,12/03/2025 17:20,mobile
+1737,59.0,Logout,/help,2025-02-24T00:36:26Z,Mobile
+368,34.0,clik,/product/101,2025-01-09T10:05:09Z,MOBILE
+186,25.0, page_view,/home,22/06/2025 18:07,
+1117,74.0,Click,/product/105,2025-05-01 00:20:32,tablet
+1755,61.0,serach,/search,31/01/2025 00:51,Tablet
+1426,57.0, purchase ,/account,2025-01-21T11:37:04Z,Desktop
+301,48.0,search,/products,04/03/2025 19:59,Mobile
+1904,77.0,LOG OUT,/orders,2025-01-01T11:16:38Z,MOBILE
+833,54.0,logout,/orders,2025-02-03 08:46:02,Mobile
+544,53.0,pageview,/checkout,2025-07-02 01:19:24,Tablet
+1601,36.0,PAGEVIEW,/checkout,2025-01-19T05:59:40Z,mobile
+351,52.0,Click,/orders,2025-05-04 12:04:21,tablet
+1933,80.0,logout,/checkout,2025-02-03T00:05:30Z,Tablet
+1511,59.0,CLICK ,/search,2025-05-09T05:58:35Z,Tablet
+979,81.0,clik,/home,2025-05-11 15:31:10,mobile
+176,87.0,log_out,/checkout,25/06/2025 23:57,
+483,35.0, purchase ,/product/101,22/02/2025 19:13,Desktop
+1413,70.0,Add_To_Cart,/product/105,2025-03-08 02:56:47,Mobile
+1611,73.0,add-to-cart,/home,01/01/2025 04:26,tablet
+124,44.0,Click,/account,2025-05-05T20:20:11Z,
+600,53.0,logout,/checkout,27/01/2025 16:49,tablet
+1795,15.0,add-to-cart,/cart,12/07/2025 11:10,MOBILE
+1471,89.0,LOG OUT,/products,2025-02-10 08:23:49,
+1379,66.0,SEARCH,/orders,07/07/2025 18:27,desktop
+1186,77.0,Purchase,/product/105,21/01/2025 13:45,MOBILE
+486,8.0,clik,/checkout,2025-06-21 19:45:47,Mobile
+332,30.0,click,,2025-06-10 03:47:54,tablet
+789,84.0,Purchase,/cart,2025-02-15T19:17:33Z,
+195,66.0,SEARCH,/home,10/04/2025 13:50,
+638,95.0,Purchase,/help,09/07/2025 19:50,tablet
+472,76.0,LOG OUT,/products,19/04/2025 15:43,MOBILE
+1714,44.0,logout,/home,17/05/2025 19:35,Desktop
+323,19.0,search,/account,2025-07-06 14:18:40,mobile
+1197,66.0,logout,/account,2025-01-13 15:09:54,Desktop
+267,92.0, purchase ,/product/105,2025-04-19T20:15:33Z,desktop
+1544,79.0,ADD TO CART,/search,25/05/2025 17:50,Tablet
+1804,97.0,CLICK ,/help,2025-01-14 23:32:16,desktop
+30,27.0,search,/help,2025-05-18 05:23:20,
+1738,52.0,search,/help,10/05/2025 17:48,
+1593,72.0,Search,/products,2025-05-07T21:50:53Z,tablet
+1564,100.0,ADD TO CART,/home,21/04/2025 12:12,Desktop
+481,60.0,Search,/home,2025-04-20 19:16:09,Tablet
+1757,59.0,clik,/home,07/02/2025 07:48,MOBILE
+1913,61.0,click,,2025-02-04 00:15:39,
+1441,11.0,purchase,/products,2025-05-11T15:43:52Z,desktop
+1461,72.0,clik,/checkout,2025-07-01T20:08:06Z,desktop
+888,78.0,add-to-cart,/orders,2025-03-19 08:29:12,desktop
+423,42.0,Search,/help,2025-07-20 08:12:01,
+1675,25.0,Logout,/product/105,2025-07-03T19:09:06Z,
+1450,80.0,PAGEVIEW,/products,2025-01-29T18:57:48Z,Desktop
+765,44.0,purchase,/product/101,2025-03-07 03:12:38,
+520,38.0,log_out,/products,2025-04-04 10:52:08,Desktop
+1432,49.0,SEARCH,/products,08/04/2025 03:09,desktop
+614,80.0,CLICK ,/search,2025-02-08 12:13:41,Desktop
+1531,28.0,CLICK ,/help,12/06/2025 19:21,desktop
+1783,81.0,add_to_cart,/cart,2025-04-12 03:56:02,
+1659,86.0,Page_View,/product/105,2025-02-27 20:34:48,Mobile
+454,40.0,purchase,/help,2025-06-18T17:43:34Z,
+375,97.0,Purchase,/checkout,2025-07-05T11:08:44Z,mobile
+535,53.0,ADD TO CART,/home,31/01/2025 11:19,desktop
+966,77.0,Click,/orders,2025-02-26T11:36:23Z,desktop
+1285,15.0,Purchase,/home,2025-05-18 07:51:08,Mobile
+1740,16.0,click,/account,24/05/2025 03:50,desktop
+262,50.0,CLICK ,/search,2025-02-03 16:53:10,Mobile
+536,19.0,log_out,/home,2025-03-20T09:13:11Z,
+969,66.0,log_out,/search,2025-02-13T11:41:09Z,
+241,52.0,logout,/products,2025-05-21T09:46:53Z,Tablet
+820,18.0,SEARCH,/account,2025-06-15T15:24:30Z,MOBILE
+693,47.0,page_view,/home,2025-07-17T04:21:23Z,Tablet
+421,,SEARCH,/cart,2025-03-16T18:42:09Z,
+1086,17.0,PURCHASE,/help,2025-06-06 16:47:40,mobile
+1999,70.0,pageview,/search,2025-04-12T03:03:53Z,Mobile
+366,85.0,search,/cart,02/02/2025 16:04,desktop
+1023,45.0,Add_To_Cart,/account,2025-07-09 18:43:09,
+1241,10.0,page_view,/product/105,17/07/2025 08:11,Tablet
+589,4.0,Logout,/cart,03/01/2025 15:51,Tablet
+737,10.0,PURCHASE,/search,2025-07-15 14:41:59,mobile
+1762,17.0,logout,/checkout,2025-05-18 18:59:53,MOBILE
+942,36.0,Purchase,/orders,2025-01-11 02:20:23,MOBILE
+72,63.0,CLICK ,/search,2025-04-02 00:31:08,tablet
+1408,27.0,Search,/search,2025-06-20 09:49:33,MOBILE
+260,53.0,Page_View,/product/105,2025-07-10 22:47:05,MOBILE
+52,1.0,PURCHASE,/cart,2025-01-23T05:27:28Z,
+199,42.0,SEARCH,/search,2025-05-21T11:04:50Z,Tablet
+1789,81.0,SEARCH,/search,08/03/2025 07:22,mobile
+651,68.0,Add_To_Cart,/orders,2025-02-03T10:48:50Z,Mobile
+333,43.0,Search,/home,2025-06-26 09:16:50,desktop
+1360,26.0,Search,/home,2025-04-26 08:24:49,mobile
+594,22.0, purchase ,/product/101,2025-02-03T17:26:30Z,mobile
+1392,20.0,Logout,/account,26/01/2025 23:27,mobile
+1801,13.0,serach,/home,2025-02-21 05:03:44,mobile
+1315,53.0,Search,/product/105,10/05/2025 04:04,desktop
+1112,51.0,LOG OUT,/product/105,05/06/2025 23:31,MOBILE
+1007,48.0,ADD TO CART,/home,2025-03-26 00:56:30,MOBILE
+1327,99.0,Add_To_Cart,/product/101,2025-01-28 05:53:49,desktop
+427,77.0,CLICK ,/search,2025-05-15T10:04:59Z,tablet
+1559,57.0,add-to-cart,/help,2025-05-18 07:08:49,Mobile
+1294,44.0,SEARCH,/orders,07/04/2025 18:07,MOBILE
+591,78.0,log_out,/account,2025-04-11 02:34:24,
+1892,50.0,PAGEVIEW,/home,11/01/2025 12:25,Mobile
+1977,24.0,CLICK ,/product/105,2025-04-12T14:24:39Z,MOBILE
+1133,33.0,ADD TO CART,/account,2025-03-15T14:01:28Z,
+986,95.0,clik,/cart,04/03/2025 05:20,
+399,42.0,clik,/product/105,26/02/2025 02:30,Mobile
+1512,, page_view,/orders,13/05/2025 05:10,
+437,89.0,PURCHASE,/product/101,2025-01-08 23:52:07,MOBILE
+193,86.0,Add_To_Cart,/cart,07/02/2025 01:44,Desktop
+1436,85.0,PAGEVIEW,/products,2025-05-20T02:15:23Z,
+615,77.0,PURCHASE,/product/101,14/06/2025 01:33,desktop
+1494,83.0,logout,/search,2025-07-20 17:41:08,Tablet
+577,9.0,Click,/product/105,27/06/2025 11:20,Desktop
+987,6.0, purchase ,/product/105,2025-06-05 18:24:03,Mobile
+1433,63.0,Add_To_Cart,/product/105,2025-07-15 10:27:11,
+707,3.0,clik,/help,06/02/2025 02:27,tablet
+1259,16.0,add-to-cart,/home,14/04/2025 18:12,MOBILE
+142,13.0,LOG OUT,/account,17/06/2025 15:36,Mobile
+1358,38.0,ADD TO CART,/help,11/06/2025 02:41,Tablet
+3,22.0,serach,/product/101,2025-03-04 01:36:44,Desktop
+1222,51.0,purchase,/cart,2025-06-07T16:04:53Z,desktop
+1870,12.0,Click,/product/105,2025-01-23 09:36:36,Mobile
+1623,62.0,PURCHASE,/cart,2025-05-13T11:12:18Z,tablet
+340,62.0,Click,/checkout,07/07/2025 16:19,MOBILE
+1770,96.0, purchase ,/product/105,2025-06-06T00:00:33Z,mobile
+1537,, page_view,/help,21/05/2025 01:04,
+484,53.0,PAGEVIEW,/cart,2025-04-26T07:23:37Z,
+266,99.0,Add_To_Cart,/home,18/02/2025 13:56,tablet
+377,33.0,search,/search,2025-03-12T13:44:57Z,Tablet
+742,63.0,serach,/products,2025-01-10 17:09:30,Desktop
+1014,62.0,clik,/search,27/04/2025 19:16,mobile
+440,39.0,page_view,/help,2025-02-21 05:42:22,mobile
+272,24.0,add-to-cart,/home,16/07/2025 22:15,Desktop
+185,22.0,serach,/products,20/02/2025 06:07,Desktop
+940,99.0,LOG OUT,/product/101,17/04/2025 00:28,Mobile
+245,30.0,PURCHASE,/orders,2025-06-29 08:15:18,tablet
+932,23.0,ADD TO CART,/checkout,01/01/2025 19:38,mobile
+446,38.0,Purchase,/products,2025-05-02 21:23:11,
+597,73.0, purchase ,,24/01/2025 09:41,Tablet
+818,46.0, purchase ,,2025-02-10T11:32:54Z,Desktop
+1273,6.0,purchase,/products,2025-05-21 14:45:08,Desktop
+1677,62.0,page_view,/account,2025-07-05 11:52:37,Mobile
+487,80.0,PURCHASE,/product/101,24/05/2025 01:37,MOBILE
+681,2.0,Purchase,/products,09/02/2025 13:07,Mobile
+416,44.0,add-to-cart,/help,16/05/2025 17:28,MOBILE
+274,94.0,logout,/cart,2025-03-18 06:23:56,Desktop
+1472,2.0,add-to-cart,/product/101,2025-04-15T08:54:10Z,tablet
+1830,67.0,log_out,/help,15/02/2025 01:44,Desktop
+1455,17.0,logout,/orders,06/07/2025 00:55,
+56,49.0,ADD TO CART,/help,17/02/2025 17:16,
+414,90.0,Click,/orders,2025-01-06T09:26:43Z,MOBILE
+1386,9.0,Logout,/home,2025-06-09T02:03:24Z,Mobile
+1308,93.0,pageview,/home,2025-02-20T07:37:05Z,Desktop
+716,50.0,purchase,/products,06/07/2025 08:09,MOBILE
+311,73.0,add_to_cart,/orders,2025-07-04 03:11:20,Mobile
+927,73.0,CLICK ,/home,21/03/2025 04:51,tablet
+382,52.0,pageview,,2025-06-26T15:07:36Z,Tablet
+1566,16.0,CLICK ,/product/105,2025-06-20T04:58:53Z,Tablet
+426,57.0, purchase ,/cart,06/07/2025 13:46,MOBILE
+1875,85.0,PURCHASE,/account,2025-06-25 23:26:53,
+533,34.0,serach,/search,2025-05-06 23:26:52,MOBILE
+753,79.0, page_view,/help,2025-01-26T20:28:32Z,Mobile
+766,66.0,CLICK ,/products,2025-01-08 10:08:14,MOBILE
+1357,5.0,pageview,/product/105,2025-05-19T13:46:38Z,desktop
+409,11.0,add_to_cart,/orders,2025-06-22 11:56:03,tablet
+1615,82.0,Add_To_Cart,/help,2025-02-27T10:13:03Z,Tablet
+695,84.0,clik,/products,2025-05-20T19:21:19Z,
+1739,35.0,add_to_cart,/product/105,16/07/2025 10:34,MOBILE
+549,,PURCHASE,/help,2025-06-24T12:22:53Z,Desktop
+937,58.0,PURCHASE,/orders,29/01/2025 05:27,mobile
+1390,85.0,search,/account,2025-02-16T22:28:07Z,
+1608,68.0, purchase ,/checkout,2025-06-13T06:40:43Z,desktop
+1940,9.0, page_view,/account,19/07/2025 19:04,Mobile
+1482,90.0,search,/orders,12/04/2025 14:30,
+183,47.0,clik,/checkout,2025-06-08T19:30:45Z,Tablet
+1941,89.0,add_to_cart,/search,2025-06-18T05:55:34Z,Tablet
+1161,96.0,clik,/home,2025-02-27T10:55:43Z,
+171,74.0,click,/orders,2025-07-05T03:57:16Z,Desktop
+293,39.0,Purchase,/products,2025-05-04T05:31:52Z,mobile
+562,56.0,LOG OUT,/cart,2025-05-02 07:21:53,Tablet
+1457,81.0,add-to-cart,/help,08/06/2025 07:44,
+1877,57.0,Search,/product/105,2025-02-22 06:50:26,Mobile
+1652,75.0,PAGEVIEW,,2025-02-12T00:55:23Z,tablet
+850,79.0, page_view,/product/101,2025-03-12 08:55:31,Desktop
+273,5.0,search,/orders,23/02/2025 15:24,Tablet
+1550,41.0, purchase ,/product/101,2025-01-25 12:35:33,Mobile
+1035,23.0,PAGEVIEW,/checkout,09/07/2025 07:20,mobile
+1744,24.0,Purchase,/checkout,2025-02-12 01:59:16,MOBILE
+372,68.0,page_view,/orders,21/04/2025 19:58,Tablet
+1670,25.0,PAGEVIEW,/home,2025-02-15T08:15:56Z,Desktop
+722,55.0,search,/help,02/06/2025 05:01,MOBILE
+734,65.0,SEARCH,/search,28/03/2025 09:23,Mobile
+778,59.0,search,/checkout,2025-01-27 00:14:03,MOBILE
+519,79.0,pageview,/home,2025-02-12 20:07:55,Tablet
+335,44.0, purchase ,/home,2025-05-04T04:40:29Z,Tablet
+846,93.0,add-to-cart,/account,26/05/2025 16:16,
+1252,75.0,click,/cart,2025-07-14 17:48:34,
+1053,8.0,Page_View,/home,16/05/2025 00:00,desktop
+1924,45.0,Logout,/help,2025-06-04 23:35:15,Tablet
+16,86.0,clik,/checkout,02/01/2025 08:24,desktop
+708,68.0,pageview,/products,2025-01-06T03:52:00Z,Mobile
+901,45.0,CLICK ,/cart,20/04/2025 18:46,tablet
+1980,18.0,add-to-cart,/products,2025-05-15 04:56:38,
+1573,47.0,PURCHASE,/help,2025-03-11T12:24:59Z,
+904,1.0,click,/help,12/02/2025 15:55,mobile
+466,53.0,Page_View,/account,2025-03-15T20:10:16Z,Desktop
+1978,57.0,Click,/product/105,2025-03-28 20:09:02,Desktop
+200,24.0,Logout,/account,2025-04-14 02:22:14,Tablet
+1207,28.0,add_to_cart,/search,06/06/2025 14:22,desktop
+1056,69.0,PAGEVIEW,/cart,2025-06-24 05:37:33,mobile
+1132,22.0,click,/help,2025-05-23 11:32:24,Desktop
+1380,17.0,logout,/products,2025-04-20 10:01:08,Mobile
+999,21.0,Add_To_Cart,/product/105,07/01/2025 04:56,mobile
+728,48.0,CLICK ,/products,03/04/2025 19:49,Mobile
+1772,18.0,clik,/help,2025-07-17T18:46:29Z,Mobile
+1910,20.0,log_out,/orders,2025-07-17T09:53:19Z,Tablet
+1822,94.0,CLICK ,/cart,08/07/2025 11:49,
+568,80.0,Click,/home,2025-03-21T18:27:32Z,Tablet
+44,51.0, purchase ,/help,2025-06-28 07:19:43,Mobile
+275,31.0,add_to_cart,/product/101,2025-05-30 03:25:50,Mobile
+1097,87.0,PURCHASE,/checkout,20/07/2025 13:26,MOBILE
+102,93.0,pageview,/checkout,2025-06-22T01:11:14Z,Mobile
+1232,14.0,Logout,/product/105,2025-06-24T21:54:47Z,
+1722,11.0,add_to_cart,/home,2025-06-08T21:58:55Z,MOBILE
+1833,44.0,clik,/products,2025-01-08T07:53:50Z,desktop
+108,8.0,Click,/cart,2025-03-22T12:44:53Z,Tablet
+1618,37.0,Purchase,/cart,12/07/2025 08:55,Desktop
+498,52.0,Search,/products,21/04/2025 23:51,MOBILE
+1981,42.0,ADD TO CART,/checkout,10/04/2025 01:58,Tablet
+882,6.0,Purchase,/help,2025-05-18 06:49:40,Tablet
+757,74.0,clik,/product/105,2025-04-11T01:51:59Z,tablet
+620,47.0,clik,/search,2025-06-06 23:27:48,
+1107,92.0,search,/checkout,2025-04-03T22:43:38Z,mobile
+1936,80.0,purchase,/home,2025-05-06 15:12:41,mobile
+810,67.0,page_view,/home,2025-06-16 03:21:38,desktop
+1038,72.0,purchase,/product/105,2025-07-02T19:58:56Z,tablet
+73,65.0, purchase ,/account,2025-04-24T15:10:05Z,Mobile
+1284,49.0,purchase,/help,2025-06-27 04:57:03,
+1272,46.0,CLICK ,/search,2025-05-24 00:44:04,MOBILE
+1335,6.0,clik,,20/06/2025 16:27,tablet
+1459,18.0,Search,/home,2025-07-19T15:23:15Z,tablet
+482,73.0,serach,/search,2025-05-07 03:14:45,Desktop
+1069,33.0,serach,/cart,2025-03-14 18:16:06,tablet
+507,79.0,serach,/cart,2025-02-04 00:12:07,Desktop
+1238,37.0,clik,/orders,2025-02-15 17:41:12,tablet
+1862,33.0,click,/orders,2025-07-01T08:40:51Z,Tablet
+1990,70.0,logout,/cart,2025-06-30T16:27:02Z,Tablet
+1477,10.0,Click,/search,2025-05-18T19:48:47Z,
+1867,85.0,CLICK ,/cart,2025-07-19T20:55:20Z,Tablet
+1456,35.0,add-to-cart,/orders,2025-01-27T07:53:20Z,MOBILE
+312,53.0,add-to-cart,/cart,2025-02-18 03:08:11,desktop
+963,92.0,serach,/account,2025-01-27T04:54:16Z,mobile
+406,17.0,click,/home,2025-03-20T05:45:29Z,Mobile
+1331,53.0,Page_View,/help,2025-03-29 00:35:51,tablet
+1650,15.0,PURCHASE,/cart,2025-06-15 12:54:12,Mobile
+310,17.0,Click,/product/101,30/06/2025 16:58,MOBILE
+227,74.0,CLICK ,/product/101,2025-04-14 19:36:40,desktop
+1858,19.0,log_out,/products,2025-07-16T07:01:00Z,MOBILE
+711,,page_view,/orders,2025-05-11 13:09:00,Mobile
+1944,15.0, page_view,,2025-03-14 00:37:15,desktop
+1384,82.0,SEARCH,/account,2025-01-02T04:23:54Z,MOBILE
+1786,12.0,SEARCH,/orders,03/01/2025 15:47,Tablet
+149,21.0,add_to_cart,,2025-01-13 05:54:36,Desktop
+1555,68.0, page_view,/checkout,2025-07-01T06:44:00Z,MOBILE
+1957,2.0,purchase,/orders,2025-02-03T11:31:52Z,
+926,55.0,log_out,,2025-05-12T05:59:19Z,
+943,93.0, page_view,/orders,2025-01-21T10:59:40Z,desktop
+837,96.0,logout,/home,2025-03-05 01:04:03,
+576,15.0,CLICK ,/search,2025-04-06T21:10:33Z,tablet
+558,94.0,click,/orders,2025-06-24 17:56:29,tablet
+1236,1.0,Page_View,/search,01/01/2025 13:03,
+1361,85.0, purchase ,/account,2025-06-09T18:58:27Z,
+1348,22.0,page_view,/product/101,2025-05-06 18:34:52,mobile
+1162,57.0,page_view,/product/101,09/07/2025 19:36,
+1443,76.0,search,/cart,23/01/2025 18:27,tablet
+287,68.0,Logout,/orders,2025-04-17T23:06:49Z,Tablet
+1605,94.0,CLICK ,/products,27/05/2025 07:48,tablet
+1058,32.0,clik,/product/105,11/01/2025 11:03,mobile
+599,13.0,Page_View,/product/101,2025-06-10 17:18:42,Desktop
+933,18.0,Page_View,/cart,28/03/2025 12:41,MOBILE
+1462,77.0,purchase,,2025-06-17 20:36:19,desktop
+1638,8.0,SEARCH,/product/105,2025-02-14T07:47:37Z,desktop
+1588,24.0,serach,/product/105,2025-07-04T11:39:22Z,Desktop
+1041,29.0,Click,/home,06/01/2025 19:30,tablet
+1231,64.0,Click,,03/01/2025 20:23,Tablet
+807,81.0,clik,/account,2025-05-15T14:44:20Z,Tablet
+905,7.0, purchase ,/search,09/05/2025 03:15,tablet
+1680,23.0,Page_View,/account,2025-06-28 12:34:24,Tablet
+1205,50.0,purchase,/help,12/05/2025 17:30,mobile
+768,25.0,CLICK ,/account,2025-07-16 18:19:10,
+610,9.0,ADD TO CART,/home,2025-02-25T13:19:49Z,
+1993,14.0,ADD TO CART,/product/105,2025-01-02T22:04:11Z,
+1565,73.0,PAGEVIEW,/help,2025-04-27 06:08:54,tablet
+1423,92.0,page_view,/cart,2025-05-16 08:31:19,tablet
+1011,19.0,page_view,/account,07/06/2025 03:15,MOBILE
+494,32.0,search,,24/06/2025 21:07,mobile
+1321,72.0,Click,/orders,2025-03-16 23:02:07,desktop
+278,97.0,Purchase,/home,2025-04-02 23:08:16,
+1847,54.0,add-to-cart,/home,2025-05-20 00:42:45,MOBILE
+359,47.0,CLICK ,/product/101,2025-01-19T20:01:09Z,
+1111,85.0,Click,/product/105,11/04/2025 15:09,Desktop
+237,66.0,add_to_cart,/product/101,2025-06-12 00:51:05,
+552,59.0,add_to_cart,/product/101,2025-01-01 19:30:00,MOBILE
+1868,75.0,Logout,/product/101,2025-03-31T00:48:06Z,MOBILE
+1813,80.0,CLICK ,/product/101,15/01/2025 23:07,desktop
+209,85.0,Click,/product/101,20/05/2025 09:40,Tablet
+1387,67.0,add-to-cart,/product/101,2025-05-22T14:22:01Z,MOBILE
+1561,4.0,SEARCH,/products,2025-04-11 05:09:36,Desktop
+59,94.0,Search,/search,27/06/2025 02:52,
+632,80.0,Search,/products,07/04/2025 03:17,Mobile
+1962,74.0,clik,/home,2025-07-03 17:27:02,
+1860,,PAGEVIEW,/product/105,2025-02-05 03:37:40,desktop
+1817,48.0, purchase ,/checkout,02/07/2025 17:24,tablet
+364,70.0,add_to_cart,/checkout,03/01/2025 15:29,Tablet
+506,1.0,Page_View,/search,2025-04-14T21:47:38Z,
+1166,30.0,Add_To_Cart,,2025-01-16 16:50:00,
+1122,19.0, page_view,/products,18/07/2025 04:28,
+1630,38.0,Purchase,,2025-03-01T21:28:45Z,tablet
+1217,85.0,add_to_cart,/account,2025-04-21 04:26:30,Tablet
+1152,52.0,click,,2025-01-08 09:07:13,mobile
+1125,51.0,logout,/cart,2025-07-13T18:02:56Z,Mobile
+1595,20.0,click,/products,2025-03-16T08:09:22Z,MOBILE
+119,61.0,Logout,/product/101,2025-06-18T07:17:34Z,Mobile
+1250,53.0,LOG OUT,/products,2025-07-09 09:26:01,desktop
+1994,90.0,Click,/product/105,16/05/2025 22:58,desktop
+523,47.0,Purchase,/home,13/05/2025 02:05,tablet
+514,38.0, purchase ,/checkout,2025-02-11T19:13:18Z,mobile
+82,69.0,Purchase,/search,2025-03-14 10:35:36,
+916,73.0,pageview,/search,2025-01-24 05:46:05,Tablet
+1019,69.0,Click,/checkout,2025-06-24T05:40:40Z,Desktop
+381,1.0,serach,/cart,2025-03-26T12:36:00Z,
+1030,73.0,log_out,/home,2025-06-01 20:06:36,mobile
+1689,33.0,Page_View,/home,2025-05-19T18:35:12Z,Mobile
+85,81.0,Search,/account,30/06/2025 03:00,mobile
+1678,69.0,SEARCH,/product/105,09/06/2025 04:29,tablet
+330,94.0,logout,/search,2025-06-04T22:18:27Z,Tablet
+7,91.0,serach,/checkout,2025-05-24 23:17:18,
+746,69.0,clik,/checkout,2025-05-27T12:52:00Z,Desktop
+1554,30.0,click,/cart,2025-03-13 15:17:41,MOBILE
+915,6.0,clik,/product/101,01/01/2025 09:17,mobile
+874,72.0,search,/home,2025-05-31T12:55:14Z,Desktop
+452,63.0,LOG OUT,/orders,2025-07-15 01:27:56,tablet
+491,30.0,PURCHASE,/product/101,22/04/2025 03:57,Mobile
+1481,70.0,CLICK ,/help,2025-03-26 07:56:19,Mobile
+288,90.0,Page_View,/product/101,2025-05-10T10:42:10Z,
+949,45.0,clik,/search,28/06/2025 05:43,tablet
+1986,11.0, page_view,/cart,2025-02-03T15:17:01Z,tablet
+1369,78.0,add_to_cart,/product/105,10/05/2025 03:35,Tablet
+1147,83.0,Logout,/home,2025-06-10T04:38:21Z,MOBILE
+706,62.0,clik,/product/101,2025-02-15T06:36:31Z,MOBILE
+1727,92.0,ADD TO CART,/home,2025-03-18 06:45:29,tablet
+1702,60.0,PURCHASE,/orders,2025-07-07T07:39:22Z,Tablet
+1629,27.0,Click,/account,2025-06-21 23:08:02,Desktop
+1600,8.0,add-to-cart,/product/105,04/07/2025 15:42,mobile
+1539,37.0,SEARCH,,2025-04-11 15:29:24,Tablet
+1406,49.0,Click,/home,2025-07-04T01:28:08Z,Tablet
+1651,26.0,ADD TO CART,/cart,2025-01-05T09:32:53Z,
+328,59.0,add_to_cart,/products,2025-03-24 11:57:24,tablet
+443,91.0,Search,/search,28/01/2025 05:53,tablet
+775,22.0,log_out,/product/105,2025-03-14T00:41:50Z,Mobile
+1088,47.0,add-to-cart,/search,2025-02-14T09:19:06Z,MOBILE
+1221,12.0,ADD TO CART,,2025-05-30 02:02:39,Desktop
+1636,2.0,Click,/cart,2025-04-23 02:46:44,tablet
+178,86.0,logout,/account,2025-03-05T15:22:42Z,tablet
+1323,6.0,SEARCH,/help,14/01/2025 03:42,Mobile
+705,57.0,Add_To_Cart,/help,2025-07-12 12:09:28,tablet
+87,12.0,page_view,/checkout,2025-03-18 04:24:49,MOBILE
+1884,38.0,Add_To_Cart,/account,2025-02-05 13:35:36,desktop
+1948,49.0,Purchase,/product/105,2025-03-29 23:26:08,Mobile
+458,15.0,pageview,,18/06/2025 13:36,desktop
+1829,17.0,log_out,/orders,2025-06-05T01:26:57Z,Mobile
+55,36.0,purchase,/checkout,2025-03-05T23:40:31Z,Desktop
+1502,48.0,Purchase,/checkout,20/01/2025 18:29,Mobile
+644,56.0,CLICK ,/products,2025-01-29T02:21:47Z,Desktop
+678,48.0,Add_To_Cart,/orders,31/01/2025 09:19,desktop
+222,59.0,PAGEVIEW,/products,2025-05-14T20:53:17Z,desktop
+114,,Page_View,/search,24/01/2025 10:07,Mobile
+983,34.0,ADD TO CART,/product/101,06/07/2025 11:53,
+1229,42.0,serach,/checkout,2025-07-12 18:55:44,Mobile
+1000,,Search,/account,23/04/2025 12:12,mobile
+175,84.0,click,/product/101,2025-01-16T05:06:26Z,
+782,67.0,log_out,/search,2025-03-24 23:30:14,desktop
+590,55.0,PURCHASE,/checkout,2025-05-26 01:59:08,Tablet
+1560,77.0,search,/search,2025-06-05T01:55:10Z,
+19,59.0,LOG OUT,/account,2025-05-01 17:51:42,Desktop
+424,87.0,pageview,/account,2025-03-23 19:38:32,Tablet
+1344,,Page_View,/account,12/05/2025 21:20,
+286,94.0,add_to_cart,/product/105,2025-01-25T03:46:14Z,tablet
+1584,57.0,page_view,/checkout,2025-05-13 21:02:02,MOBILE
+429,49.0,purchase,/cart,19/03/2025 15:35,Desktop
+1510,91.0,search,/products,26/02/2025 22:57,desktop
+1319,78.0, page_view,/product/101,2025-01-19 10:47:13,MOBILE
+670,90.0,ADD TO CART,/help,13/01/2025 05:20,MOBILE
+32,53.0,Purchase,/orders,2025-02-27 09:54:45,
+941,46.0,log_out,/product/105,2025-05-17 03:08:46,
+723,,Purchase,/product/101,05/02/2025 23:33,
+995,10.0,LOG OUT,/search,2025-06-27 23:52:27,tablet
+66,29.0,serach,/cart,04/02/2025 21:46,
+814,16.0,Purchase,/product/105,2025-05-20T08:52:39Z,
+327,12.0,Purchase,/product/101,2025-06-06T21:44:44Z,
+561,29.0,purchase,/product/105,2025-03-26T09:04:40Z,mobile
+1113,86.0,page_view,/checkout,2025-06-05T09:09:15Z,
+701,71.0,click,/orders,11/01/2025 20:09,MOBILE
+1579,88.0,pageview,/products,2025-05-16 11:58:10,mobile
+1190,88.0,click,/search,06/01/2025 12:36,tablet
+25,88.0,PAGEVIEW,/search,2025-01-27T16:49:42Z,desktop
+630,84.0,Purchase,/product/101,2025-06-30 04:12:31,
+148,82.0,search,/product/105,02/06/2025 14:11,
+1310,42.0, page_view,/orders,2025-07-19T17:46:55Z,Mobile
+361,55.0, purchase ,/checkout,19/04/2025 19:00,Desktop
+84,17.0,Add_To_Cart,/cart,2025-04-03T08:05:23Z,MOBILE
+49,45.0,Purchase,/products,16/07/2025 19:38,Mobile
+469,9.0,PURCHASE,/products,2025-07-05T04:15:07Z,
+156,82.0,SEARCH,/orders,2025-02-13 21:56:35,desktop
+773,78.0,click,/orders,2025-06-05T21:04:36Z,tablet
+1240,54.0,Purchase,/product/101,2025-07-15T09:19:34Z,
+1201,64.0,Page_View,/products,05/04/2025 09:07,tablet
+1403,12.0,PURCHASE,/orders,2025-06-06T06:58:00Z,tablet
+1203,39.0,click,/product/105,2025-03-06T15:25:29Z,
+1631,89.0,serach,/orders,2025-01-09T17:50:57Z,Tablet
+501,92.0,purchase,/cart,2025-01-21 15:19:09,desktop
+1765,57.0,logout,/help,2025-01-09T15:18:39Z,MOBILE
+180,63.0,ADD TO CART,/home,2025-05-21 20:24:25,mobile
+1048,87.0,clik,/product/101,2025-06-24 18:20:55,Mobile
+1756,91.0,serach,/products,2025-01-29 18:10:35,
+951,41.0,purchase,/product/101,12/02/2025 19:22,tablet
+1317,44.0, purchase ,/account,2025-07-10 01:33:44,mobile
+1620,34.0,PURCHASE,/product/105,2025-03-11T13:16:01Z,
+529,48.0,LOG OUT,/products,2025-06-16T03:28:19Z,Mobile
+347,40.0,click,/search,24/01/2025 22:29,desktop
+1388,52.0, page_view,/product/101,31/03/2025 15:29,Tablet
+1961,34.0,Search,/search,26/05/2025 14:44,Desktop
+1051,61.0,Add_To_Cart,/products,15/02/2025 22:27,
+1973,55.0,pageview,/product/105,24/03/2025 22:38,
+1442,77.0,Logout,/search,11/04/2025 18:42,Mobile
+602,25.0,PAGEVIEW,/products,04/02/2025 10:42,
+1282,22.0,LOG OUT,/search,2025-06-02 17:42:36,
+244,97.0, purchase ,/help,04/05/2025 03:16,Desktop
+1337,49.0,LOG OUT,/products,05/06/2025 02:54,Mobile
+1068,89.0,search,/products,06/05/2025 02:11,MOBILE
+1476,35.0,serach,/cart,05/04/2025 09:41,MOBILE
+313,79.0,Click,/home,2025-06-26T15:08:32Z,
+436,65.0,click,/account,2025-01-20 03:52:08,
+1899,24.0, page_view,/product/101,2025-06-23T00:30:12Z,MOBILE
+1329,54.0, page_view,/product/101,2025-03-21T17:46:14Z,Desktop
+309,87.0,Search,/account,2025-02-09T13:19:58Z,Tablet
+431,98.0,pageview,/checkout,2025-05-25T13:55:16Z,
+661,74.0,click,/orders,2025-07-12T01:05:07Z,desktop
+371,91.0,Add_To_Cart,/orders,04/01/2025 09:59,tablet
+567,2.0,pageview,/product/105,02/02/2025 20:32,tablet
+980,87.0,PURCHASE,/orders,2025-02-19 03:48:14,desktop
+182,72.0,pageview,/help,2025-05-11T17:13:41Z,
+1363,,Search,/product/105,2025-06-28T08:56:01Z,Tablet
+622,78.0,Add_To_Cart,/search,2025-02-18T00:00:55Z,Tablet
+819,91.0,logout,/product/101,01/04/2025 20:46,
+1193,90.0,add_to_cart,/orders,26/04/2025 04:18,desktop
+953,28.0,LOG OUT,/product/101,16/07/2025 23:25,Tablet
+1422,14.0,search,/search,2025-05-11 01:26:28,Desktop
+1841,49.0, page_view,/product/101,2025-07-20T14:27:15Z,Mobile
+923,5.0,PAGEVIEW,/home,2025-05-02 10:21:41,MOBILE
+1074,93.0,purchase,/product/105,2025-03-15T17:10:09Z,Tablet
+297,19.0, page_view,/help,21/05/2025 12:16,
+967,92.0,SEARCH,/search,2025-06-22T09:09:47Z,MOBILE
+462,35.0,log_out,/account,2025-01-20T20:52:19Z,desktop
+1303,30.0,ADD TO CART,/orders,2025-03-17T06:55:58Z,Mobile
+1177,60.0,click,/cart,22/02/2025 19:50,MOBILE
+378,100.0, page_view,/account,2025-01-16 08:52:16,
+799,49.0,add-to-cart,/orders,23/06/2025 11:56,tablet
+1103,24.0,search,/search,02/01/2025 02:11,MOBILE
+106,68.0, purchase ,/home,2025-02-06 22:17:05,Desktop
+127,96.0,ADD TO CART,/product/101,2025-01-23T22:42:40Z,Tablet
+1996,17.0,log_out,/home,2025-05-20T09:04:24Z,Mobile
+839,70.0,SEARCH,/product/105,19/03/2025 11:49,Desktop
+356,56.0,add_to_cart,,11/05/2025 12:54,Mobile
+1617,11.0,LOG OUT,/orders,2025-05-24T18:48:21Z,tablet
+683,85.0,Click,/checkout,2025-01-02T11:56:55Z,Desktop
+813,1.0,pageview,/products,2025-01-27T15:01:53Z,
+1681,13.0,Purchase,/cart,01/06/2025 18:57,Tablet
+210,2.0,Logout,/products,2025-05-27T19:25:34Z,mobile
+177,38.0,purchase,/cart,05/07/2025 07:57,Tablet
+141,2.0,log_out,/products,2025-02-07 18:37:37,mobile
+1975,32.0,search,/help,07/01/2025 19:23,Desktop
+1340,98.0,Search,/help,2025-01-05T17:51:05Z,
+1798,65.0,search,/orders,31/05/2025 13:34,tablet
+1575,80.0,add_to_cart,/checkout,13/04/2025 19:09,tablet
+1182,85.0,page_view,/checkout,2025-07-04 08:18:27,Desktop
+1394,72.0,add-to-cart,/products,15/06/2025 14:47,Desktop
+1816,,add_to_cart,/account,2025-01-20 00:20:54,Mobile
+712,50.0,SEARCH,/product/105,2025-06-25T12:43:56Z,mobile
+1794,19.0,ADD TO CART,/product/105,2025-03-20T23:26:56Z,tablet
+893,64.0,ADD TO CART,,2025-06-26 18:38:26,desktop
+860,46.0,PAGEVIEW,/search,2025-04-25 13:14:36,
+10,21.0, purchase ,/product/105,2025-03-15 10:18:41,mobile
+1695,97.0,add_to_cart,/home,2025-03-17T09:16:08Z,Mobile
+1428,4.0,page_view,/search,20/06/2025 14:07,Mobile
+283,85.0,Click,/home,2025-05-05T06:06:02Z,tablet
+811,89.0,page_view,/help,2025-07-09 22:03:44,
+1342,68.0,add_to_cart,/product/105,2025-04-27 07:05:59,Tablet
+292,66.0,Logout,,02/04/2025 04:08,Desktop
+755,83.0,serach,/home,20/07/2025 07:32,desktop
+627,76.0,pageview,/product/105,12/02/2025 13:16,
+944,3.0,SEARCH,/products,2025-04-21T03:50:12Z,desktop
+862,19.0,Search,/product/101,04/01/2025 05:07,
+130,10.0,PAGEVIEW,/home,27/01/2025 02:21,MOBILE
+1176,55.0,Click,/cart,2025-06-25T11:45:34Z,Tablet
+324,,add_to_cart,/search,2025-05-08T17:51:00Z,
+1091,,SEARCH,/search,16/02/2025 14:57,Tablet
+844,85.0,PAGEVIEW,/home,31/03/2025 00:58,desktop
+964,47.0,Add_To_Cart,/product/105,2025-02-23T08:06:21Z,mobile
+1865,60.0,SEARCH,/account,14/05/2025 10:40,
+866,1.0,add-to-cart,/account,15/02/2025 16:46,mobile
+922,34.0,pageview,/product/101,2025-04-30T18:20:23Z,tablet
+696,26.0,click,/product/101,2025-05-21T22:16:57Z,Tablet
+216,100.0,logout,/product/101,2025-01-21 08:54:52,
+1781,60.0,Add_To_Cart,/account,2025-02-26 11:29:01,desktop
+1262,44.0,Click,/products,2025-03-25T13:24:42Z,desktop
+159,25.0,serach,/orders,14/01/2025 04:08,tablet
+1059,12.0,add-to-cart,/orders,2025-03-14 10:08:28,desktop
+989,20.0,Logout,/orders,2025-03-04T10:36:34Z,desktop
+842,90.0,purchase,/home,09/01/2025 08:17,desktop
+635,31.0,serach,/account,2025-04-02 10:51:06,
+517,30.0,clik,/cart,2025-07-20T11:49:02Z,desktop
+1362,34.0,logout,/help,2025-07-01T20:44:17Z,Mobile
+1748,94.0,Purchase,/account,2025-05-28 13:13:11,Tablet
+598,92.0,Purchase,/account,08/06/2025 23:27,MOBILE
+196,96.0,log_out,/product/105,2025-06-30T22:41:23Z,
+1784,29.0, purchase ,/home,2025-02-02 17:15:33,
+870,6.0,Logout,/home,2025-01-07T11:13:18Z,tablet
+411,15.0,Search,/product/105,10/03/2025 16:43,Mobile
+97,95.0,click,/home,29/06/2025 00:10,
+1001,23.0,logout,/product/101,31/01/2025 15:47,Tablet
+1506,50.0,page_view,/orders,2025-06-15 17:09:17,tablet
+157,17.0,Search,/checkout,26/02/2025 11:14,tablet
+420,19.0,Logout,/orders,2025-01-07 12:59:31,
+1803,31.0,serach,/products,2025-04-30 20:35:26,mobile
+478,,CLICK ,/checkout,2025-01-29T05:15:33Z,MOBILE
+1856,58.0,pageview,/product/101,2025-04-25 02:44:14,
+669,14.0,Page_View,/orders,20/03/2025 18:52,mobile
+1418,40.0,add-to-cart,/help,2025-03-31 11:18:27,Desktop
+1872,44.0,pageview,/checkout,17/02/2025 02:30,Mobile
+1300,52.0,Add_To_Cart,/orders,21/06/2025 21:46,desktop
+448,26.0,log_out,/products,2025-04-19T23:31:17Z,desktop
+554,46.0,search,/products,2025-02-19T14:00:14Z,Mobile
+179,72.0,logout,/home,10/02/2025 16:54,MOBILE
+391,16.0,Purchase,/checkout,2025-04-23 07:59:37,MOBILE
+579,63.0, page_view,/help,2025-05-11T12:48:56Z,
+1478,80.0, page_view,/search,12/04/2025 06:15,MOBILE
+1707,38.0,Logout,/home,2025-05-06 16:34:01,Desktop
+1288,80.0,purchase,/checkout,2025-06-24 08:54:21,Mobile
+1645,63.0,clik,/help,2025-01-20 05:06:08,mobile
+1024,36.0,page_view,/orders,2025-01-27 20:38:30,
+821,65.0,LOG OUT,/product/101,2025-05-31T18:22:37Z,tablet
+1825,,clik,/cart,2025-03-19T16:54:20Z,
+985,3.0,Click,/cart,06/04/2025 00:20,Tablet
+1339,36.0, purchase ,/search,11/04/2025 05:03,MOBILE
+665,49.0,clik,/search,2025-03-07 21:27:44,
+143,52.0,log_out,/home,2025-03-26T22:15:03Z,
+1517,90.0,search,/orders,2025-03-21T17:45:20Z,desktop
+1430,86.0,PAGEVIEW,/product/101,2025-06-06T19:32:02Z,desktop
+865,46.0, purchase ,/account,2025-05-03 22:08:46,
+422,15.0,Page_View,/orders,2025-01-07 12:39:53,
+637,88.0, purchase ,,13/06/2025 10:01,Mobile
+1407,68.0,Click,/help,2025-02-24 01:18:36,tablet
+800,36.0,pageview,/orders,06/06/2025 03:27,Tablet
+1404,11.0,log_out,/products,2025-01-30T04:25:03Z,MOBILE
+616,30.0,ADD TO CART,/product/105,2025-01-14T21:15:51Z,Desktop
+295,16.0,click,/account,2025-05-15T01:20:34Z,MOBILE
+924,40.0,Logout,/home,2025-06-07T14:37:36Z,tablet
+1269,86.0,Logout,/search,2025-01-01T04:01:20Z,
+1903,39.0,search,/products,18/07/2025 18:39,Mobile
+89,12.0,click,/help,2025-03-31 13:20:50,Desktop
+42,,log_out,,2025-07-04 08:34:18,
+1802,71.0,logout,/products,12/03/2025 01:00,
+1934,1.0, purchase ,/products,2025-04-21 18:21:30,desktop
+132,56.0,PAGEVIEW,/product/105,2025-04-15T22:35:46Z,
+1002,27.0,LOG OUT,/search,29/01/2025 14:01,tablet
+1158,88.0,search,/orders,2025-05-09T05:29:17Z,tablet
+1095,90.0, purchase ,/checkout,2025-07-11 21:29:42,Tablet
+1855,10.0,ADD TO CART,/cart,04/01/2025 12:11,mobile
+1345,45.0,Click,/search,20/06/2025 17:18,Mobile
+1499,61.0,logout,/checkout,2025-07-14T06:27:26Z,Desktop
+165,,Click,/product/105,31/05/2025 16:10,Mobile
+725,51.0,serach,/orders,2025-03-08T18:32:19Z,Desktop
+291,67.0,add_to_cart,/cart,2025-02-24T10:01:49Z,desktop
+1209,20.0,PURCHASE,/search,2025-06-12 08:09:09,mobile
+1589,19.0,serach,/product/105,2025-02-18 16:38:38,Mobile
+1897,4.0,ADD TO CART,/home,2025-06-13 09:36:08,mobile
+1642,53.0,Logout,/cart,2025-04-03T20:34:14Z,
+1362,20.0,CLICK ,/orders,2025-05-07T23:02:50Z,
+779,42.0,serach,/product/105,18/02/2025 23:57,
+840,35.0,logout,/home,16/04/2025 22:39,mobile
+349,86.0,add-to-cart,,02/05/2025 03:22,MOBILE
+1945,40.0,add_to_cart,/product/105,2025-07-02 17:09:11,
+572,6.0,Page_View,/product/105,24/02/2025 07:30,tablet
+918,95.0, page_view,/cart,2025-02-05 18:20:26,Desktop
+977,15.0,Purchase,/help,07/06/2025 14:00,desktop
+1914,97.0,Purchase,/cart,25/02/2025 10:51,MOBILE
+1469,18.0,logout,,2025-01-21 05:17:45,mobile
+1592,26.0,page_view,/search,2025-04-12T03:22:41Z,Desktop
+1318,55.0,page_view,/product/105,15/01/2025 16:56,tablet
+1845,92.0,PURCHASE,/product/101,12/02/2025 17:41,Desktop
+137,45.0,Purchase,/orders,2025-04-10T16:26:34Z,
+459,61.0,add-to-cart,/help,2025-05-27 03:51:31,Desktop
+376,82.0,page_view,/help,2025-06-18 20:36:51,mobile
+1343,22.0,purchase,/search,2025-01-21 14:00:13,mobile
+334,71.0,page_view,/checkout,2025-07-05 18:39:01,Desktop
+1160,6.0,add-to-cart,/products,2025-01-20 06:30:31,Mobile
+1761,39.0,Page_View,/cart,27/06/2025 11:37,mobile
+1458,65.0,add_to_cart,/checkout,2025-03-08 10:51:42,mobile
+817,55.0,add-to-cart,/products,2025-01-03T18:19:02Z,
+1115,44.0,Search,/checkout,02/05/2025 02:01,tablet
+1006,54.0,Logout,/product/101,2025-01-29 05:01:31,desktop
+1857,93.0,PURCHASE,/search,20/06/2025 16:40,desktop
+1955,26.0,PAGEVIEW,/account,2025-06-08 18:21:46,desktop
+1851,37.0,search,/product/105,2025-05-29T16:52:35Z,desktop
+911,81.0,clik,/orders,2025-01-10T11:01:39Z,MOBILE
+1930,82.0,Purchase,/home,2025-05-19T13:41:20Z,tablet
+1126,92.0,page_view,/product/101,2025-05-14 05:45:15,Tablet
+329,9.0,click,/cart,2025-04-16 16:13:44,Mobile
+1248,71.0,SEARCH,/products,09/01/2025 20:20,
+319,7.0,clik,/search,2025-05-09T03:11:49Z,
+1690,40.0,Logout,/help,2025-05-02T08:53:54Z,mobile
+1359,70.0, page_view,/products,15/02/2025 07:57,
+1733,84.0,PAGEVIEW,/product/105,14/05/2025 02:24,desktop
+168,85.0,LOG OUT,/help,2025-02-05 13:53:57,
+13,38.0,PAGEVIEW,/help,2025-03-27T09:29:41Z,
+1927,68.0,logout,/product/101,2025-04-14 00:01:00,desktop
+172,38.0,page_view,/product/101,16/03/2025 11:51,tablet
+650,39.0,Search,/home,28/03/2025 13:43,tablet
+1062,41.0,logout,/home,2025-04-09 06:22:34,tablet
+261,13.0,purchase,/home,2025-05-15T02:06:16Z,MOBILE
+1367,25.0,logout,/checkout,08/03/2025 02:43,MOBILE
+1549,73.0,page_view,/orders,2025-05-18T11:21:35Z,mobile
+902,72.0,Search,/products,2025-01-27 23:13:17,desktop
+673,24.0,add-to-cart,/orders,2025-04-20 16:45:56,desktop
+259,30.0,SEARCH,/cart,12/04/2025 08:56,
+845,76.0,PAGEVIEW,/help,2025-04-20 23:59:47,mobile
+868,36.0,LOG OUT,/products,12/02/2025 03:18,
+1800,93.0,page_view,/account,2025-06-06 23:33:27,Desktop
+139,58.0,Click,/product/105,2025-04-19 02:43:27,MOBILE
+894,97.0, purchase ,/checkout,02/03/2025 10:29,
+1838,73.0,page_view,/cart,2025-04-12 08:31:53,Mobile
+550,66.0,click,/cart,2025-06-28T03:53:08Z,
+320,53.0,Page_View,/search,2025-07-02 06:56:29,desktop
+1527,86.0,Page_View,/products,26/01/2025 14:49,mobile
+1806,68.0,page_view,/search,23/05/2025 16:43,
+1178,64.0, purchase ,/cart,28/04/2025 17:21,mobile
+559,84.0,add-to-cart,/account,24/06/2025 16:29,
+140,34.0,search,/products,12/04/2025 17:20,
+1735,82.0,PURCHASE,/home,2025-02-01T01:12:42Z,
+532,55.0,Purchase,/search,2025-06-23T16:25:37Z,
+225,24.0,logout,/product/105,2025-03-26T23:07:30Z,
+724,44.0,search,/cart,2025-01-16 20:02:38,
+787,,Purchase,,19/06/2025 16:28,mobile
+1718,76.0,click,/search,2025-04-29T23:34:38Z,mobile
+1008,6.0,Logout,/product/101,2025-03-31 07:05:26,mobile
+410,80.0,Add_To_Cart,/orders,2025-05-24 22:49:13,Tablet
+326,72.0,click,/product/101,2025-06-17 11:02:09,desktop
+1766,39.0,Purchase,/account,2025-07-06 20:08:53,Tablet
+300,77.0,Add_To_Cart,/checkout,2025-04-24 19:09:28,Desktop
+1263,26.0,Click,/account,20/06/2025 21:15,desktop
+1946,27.0,Purchase,/home,2025-04-06T17:35:25Z,desktop
+26,69.0,Click,/home,2025-03-18T14:43:46Z,tablet
+1859,69.0,Add_To_Cart,/cart,12/02/2025 22:06,Desktop
+715,35.0,SEARCH,/cart,2025-07-02 02:50:00,MOBILE
+1010,85.0,logout,/search,2025-05-27T06:08:14Z,MOBILE
+194,5.0,purchase,/help,2025-07-09T17:55:14Z,
+441,96.0,LOG OUT,/checkout,2025-05-09T23:39:15Z,mobile
+574,75.0,add_to_cart,/home,14/03/2025 05:14,MOBILE
+947,60.0,SEARCH,/products,2025-01-05 22:20:14,desktop
+998,78.0,Page_View,/orders,2025-01-18 10:55:20,Desktop
+504,24.0,page_view,/account,18/03/2025 10:37,
+606,40.0,logout,/home,16/07/2025 06:59,Desktop
+1717,57.0,add-to-cart,/checkout,2025-05-27 11:48:33,
+1164,12.0,SEARCH,/search,2025-03-04 04:07:01,mobile
+1787,99.0,ADD TO CART,/account,2025-03-20 20:11:57,
+847,31.0,PAGEVIEW,/cart,2025-03-05T17:18:21Z,tablet
+2,54.0,Search,/account,2025-06-06T15:55:54Z,Mobile
+1287,18.0, page_view,/search,2025-02-22 04:51:50,mobile
+1223,60.0,Add_To_Cart,/orders,2025-06-05 07:44:18,tablet
+468,,Add_To_Cart,/home,2025-05-05 00:03:55,Tablet
+322,66.0,clik,/orders,2025-07-16T05:58:21Z,MOBILE
+6,99.0,SEARCH,/help,2025-03-05 08:35:19,desktop
+223,73.0,serach,/checkout,2025-01-20 16:16:24,
+1375,20.0,search,/cart,2025-01-23 01:49:22,
+548,19.0,Click,/orders,23/05/2025 14:02,desktop
+229,66.0,SEARCH,/search,2025-01-18 07:24:24,mobile
+40,70.0,pageview,/home,2025-01-20 21:03:48,tablet
+543,41.0,page_view,/products,2025-03-15 04:11:16,MOBILE
+243,38.0,pageview,/cart,28/05/2025 08:44,
+899,92.0,PAGEVIEW,/account,2025-05-01T02:00:19Z,Desktop
+1134,27.0, page_view,/products,2025-02-22T06:48:36Z,desktop
+1449,18.0, purchase ,/product/101,2025-07-12T16:28:38Z,mobile
+1869,85.0,Purchase,/cart,22/05/2025 13:12,MOBILE
+843,11.0,log_out,,2025-04-08 12:28:02,Desktop
+1419,14.0,add-to-cart,,2025-01-12 17:03:49,
+1654,82.0,CLICK ,/account,17/02/2025 14:58,Tablet
+1970,8.0,CLICK ,/cart,04/03/2025 18:20,desktop
+662,70.0,search,/product/105,13/05/2025 09:42,MOBILE
+1211,20.0,LOG OUT,,17/01/2025 05:54,
+315,29.0,Click,/products,23/04/2025 19:31,
+692,1.0,SEARCH,/product/105,2025-03-13 19:06:27,desktop
+1504,24.0,add_to_cart,/orders,2025-07-14 18:23:59,mobile
+425,92.0,add-to-cart,,2025-03-30T11:19:28Z,mobile
+595,27.0,CLICK ,/account,2025-06-20T15:10:38Z,desktop
+1964,78.0,ADD TO CART,/product/105,2025-02-01T17:01:40Z,mobile
+623,54.0,SEARCH,/account,2025-06-14 18:04:26,mobile
+1171,83.0,Search,/product/105,15/03/2025 15:49,Mobile
+1044,75.0,log_out,/orders,2025-06-04T07:46:22Z,
+228,28.0, purchase ,/product/101,2025-04-16T19:09:50Z,MOBILE
+1118,80.0,log_out,/search,06/07/2025 08:04,Desktop
+1332,46.0,clik,/cart,21/05/2025 12:36,tablet
+1316,54.0,add_to_cart,/cart,18/05/2025 13:47,Mobile
+67,52.0,clik,,07/06/2025 06:28,tablet
+25,49.0, purchase ,/products,19/06/2025 17:08,mobile
+145,96.0,ADD TO CART,/account,23/01/2025 06:28,
+367,9.0, purchase ,/help,26/04/2025 10:50,MOBILE
+812,95.0,Click,/product/101,21/03/2025 23:59,Desktop
+1467,38.0,PURCHASE,/help,2025-02-28T01:00:44Z,tablet
+86,29.0,purchase,/home,31/01/2025 13:44,mobile
+1661,48.0,logout,/checkout,22/04/2025 17:26,tablet
+1646,16.0,logout,/product/105,2025-06-26T17:26:51Z,Mobile
+1805,82.0,LOG OUT,/checkout,10/06/2025 03:04,Tablet
+1818,32.0,LOG OUT,/product/105,2025-01-24 02:00:20,mobile
+1577,50.0,add_to_cart,/cart,2025-05-30 06:15:50,tablet
+1145,85.0,Search,/checkout,30/03/2025 13:11,Tablet
+363,11.0,SEARCH,/search,14/05/2025 19:05,mobile
+1612,70.0, purchase ,/account,25/04/2025 18:28,mobile
+1866,95.0,add-to-cart,/search,14/02/2025 00:47,tablet
+1027,14.0,SEARCH,/product/105,20/06/2025 15:53,tablet
+1031,31.0,serach,/account,11/01/2025 11:41,
+1304,61.0,PURCHASE,/cart,2025-05-16 16:58:58,Desktop
+1356,69.0,Add_To_Cart,/account,2025-05-19 09:50:34,MOBILE
+1731,49.0,Purchase,/checkout,2025-01-30 03:24:18,tablet
+666,81.0,Search,/checkout,15/06/2025 16:38,MOBILE
+365,38.0,pageview,/cart,25/05/2025 08:03,MOBILE
+78,77.0,ADD TO CART,/cart,2025-05-12 21:52:06,tablet
+28,3.0,page_view,,2025-06-03 21:45:55,Desktop
+1437,100.0,click,/products,2025-01-06T23:53:34Z,desktop
+526,58.0,log_out,/checkout,2025-07-20 20:25:49,desktop
+1835,14.0,PURCHASE,/search,2025-01-31 15:06:27,Mobile
+56,18.0,PURCHASE,/help,2025-03-26T14:21:27Z,MOBILE
+639,61.0,search,/account,2025-02-19T22:09:55Z,
+303,80.0,click,/account,2025-06-19 16:02:16,Mobile
+719,92.0,Logout,/products,01/01/2025 06:54,
+625,55.0,clik,/home,2025-04-03 20:45:43,MOBILE
+8,51.0,CLICK ,/home,02/07/2025 02:22,desktop
+804,92.0,Search,/account,21/01/2025 09:14,Tablet
+1050,4.0,purchase,/checkout,14/04/2025 18:44,tablet
+337,43.0,add_to_cart,/product/101,2025-01-08T10:24:40Z,MOBILE
+48,39.0,clik,/orders,2025-07-13T23:08:50Z,mobile
+1764,17.0,purchase,/home,2025-03-10 09:29:16,
+107,67.0,add-to-cart,/products,10/05/2025 04:40,mobile
+350,45.0,click,/account,2025-01-28 10:35:41,desktop
+1080,91.0,clik,/product/101,01/04/2025 06:25,
+239,77.0,clik,,2025-06-18 16:18:12,
+214,58.0,SEARCH,/help,26/05/2025 11:51,MOBILE
+1776,98.0,Add_To_Cart,/home,08/03/2025 21:00,Desktop
+1139,95.0,PAGEVIEW,/account,18/03/2025 01:57,MOBILE
+794,23.0,Page_View,/home,2025-05-02 18:00:31,
+1587,26.0,PURCHASE,/checkout,2025-05-13T12:11:58Z,Mobile
+1583,53.0,purchase,/products,2025-01-16T20:52:02Z,Tablet
+1672,51.0,Purchase,/search,2025-03-04T07:11:54Z,Desktop
+524,22.0,purchase,/product/101,2025-01-15T20:45:51Z,
+233,99.0,PAGEVIEW,/help,2025-04-15T08:12:00Z,Mobile
+645,15.0,CLICK ,/account,2025-01-01T09:03:37Z,Desktop
+1508,34.0,ADD TO CART,/product/101,22/05/2025 11:43,
+534,63.0,click,/product/105,09/01/2025 23:10,mobile
+1942,46.0,add_to_cart,/help,23/05/2025 11:32,Tablet
+604,16.0,Purchase,/products,03/01/2025 21:17,Tablet
+1330,85.0,Add_To_Cart,/orders,24/05/2025 00:53,Mobile
+1075,88.0,logout,/help,2025-07-05 10:23:02,mobile
+1305,48.0,Search,/cart,2025-02-04T14:39:53Z,Mobile
+61,89.0,PAGEVIEW,/orders,2025-01-22T03:49:15Z,Tablet
+1264,,Purchase,/home,16/01/2025 23:29,Desktop
+93,99.0,logout,/home,2025-01-11T01:50:25Z,desktop
+667,56.0,Logout,/products,17/05/2025 03:43,mobile
+281,100.0,Purchase,/home,2025-04-04T19:15:20Z,mobile
+1114,54.0,Add_To_Cart,/checkout,2025-06-25 19:27:39,MOBILE
+360,18.0,serach,/search,2025-06-28T19:59:27Z,MOBILE
+1129,83.0,clik,/home,2025-07-14 07:09:55,
+1170,100.0,CLICK ,/account,27/02/2025 23:58,
+848,36.0,SEARCH,,20/03/2025 18:42,MOBILE
+1522,68.0,CLICK ,/product/101,2025-01-16T12:55:17Z,tablet
+111,90.0,CLICK ,/product/101,2025-03-05 11:25:32,desktop
+43,87.0,click,/products,03/03/2025 06:39,Tablet
+126,74.0,logout,/product/101,2025-06-06 07:40:36,
+205,90.0,serach,/products,09/02/2025 00:29,Mobile
+53,,add_to_cart,/help,25/03/2025 12:00,tablet
+546,15.0,add-to-cart,/orders,2025-05-04 00:26:40,Mobile
+69,86.0,LOG OUT,/help,11/04/2025 18:07,
+1741,99.0,CLICK ,/product/105,2025-07-14T16:57:04Z,
+1548,78.0,click,/checkout,15/05/2025 03:33,Mobile
+184,15.0,Search,/home,12/06/2025 09:35,mobile
+138,31.0, page_view,/home,2025-05-13 18:43:39,mobile
+900,13.0,add_to_cart,/home,2025-06-02T05:04:22Z,
+797,43.0,serach,/products,2025-05-13 23:40:01,tablet
+133,37.0,page_view,/account,2025-05-06 04:03:23,tablet
+81,48.0,PURCHASE,,18/07/2025 23:05,Tablet
+1987,98.0,clik,/search,06/04/2025 18:59,MOBILE
+1541,59.0,click,/product/101,2025-05-27 22:49:09,Desktop
+542,69.0,purchase,/search,06/01/2025 10:27,Mobile
+1669,95.0,click,,20/02/2025 23:10,Desktop
+984,73.0,purchase,/account,2025-04-15 11:41:51,
+166,82.0,logout,/help,2025-06-19 03:41:53,Mobile
+249,98.0,add-to-cart,/product/105,02/02/2025 01:33,
+447,51.0,search,/products,2025-04-13T22:37:06Z,MOBILE
+1515,85.0,clik,/products,12/01/2025 23:23,Mobile
+859,43.0,Add_To_Cart,/search,2025-01-30T22:15:28Z,tablet
+1212,29.0,clik,/products,28/04/2025 10:39,
+98,93.0,Add_To_Cart,/cart,31/01/2025 00:21,desktop
+1974,71.0,add-to-cart,/home,04/03/2025 23:44,mobile
+738,63.0,add-to-cart,/account,2025-06-24T04:28:23Z,Tablet
+1256,73.0,page_view,/search,2025-07-01T04:10:47Z,
+103,9.0,ADD TO CART,/checkout,27/04/2025 00:23,desktop
+435,75.0,click,/product/101,2025-04-06 15:26:21,mobile
+75,74.0,LOG OUT,/orders,2025-01-11 23:28:34,tablet
+1792,80.0, purchase ,/orders,11/03/2025 19:18,mobile
+1235,78.0,Add_To_Cart,/search,2025-06-16T01:52:14Z,desktop
+919,26.0,ADD TO CART,/search,06/05/2025 11:37,
+1712,49.0,serach,/search,2025-02-11T18:51:25Z,mobile
+1671,1.0,Logout,/account,2025-06-07T05:42:49Z,Mobile
+1621,29.0,add-to-cart,/product/101,2025-05-03T23:59:13Z,
+763,12.0,Add_To_Cart,/account,2025-01-06T13:04:31Z,mobile
+990,38.0,click,/checkout,2025-04-03 14:47:56,MOBILE
+389,76.0,page_view,/search,2025-06-07 07:04:51,tablet
+236,72.0,ADD TO CART,/account,18/06/2025 03:47,MOBILE
+1507,56.0,Click,/help,27/03/2025 16:37,Mobile
+268,96.0,add-to-cart,/product/105,2025-02-16T04:18:07Z,
+1188,64.0, purchase ,/help,2025-02-06T22:04:38Z,tablet
+118,63.0,LOG OUT,/account,2025-01-07 10:38:14,desktop
+1607,30.0,Logout,/product/101,10/04/2025 21:48,Tablet
+674,12.0,PURCHASE,/products,2025-01-20 23:15:05,Mobile
+250,5.0,Purchase,/search,2025-06-28T16:29:20Z,Mobile
+1453,47.0,ADD TO CART,/search,01/02/2025 19:06,Mobile
+1995,82.0, purchase ,/orders,2025-01-17T16:49:32Z,MOBILE
+95,27.0,CLICK ,/account,2025-07-15 20:43:41,desktop
+34,93.0,PAGEVIEW,/account,2025-06-04 01:55:04,
+1464,56.0,PAGEVIEW,/account,04/01/2025 09:20,
+1668,68.0,Click,/products,06/01/2025 01:14,tablet
+449,83.0,add-to-cart,/help,05/05/2025 16:17,mobile
+717,50.0, purchase ,/search,16/04/2025 19:50,MOBILE
+1810,,SEARCH,/checkout,2025-05-09T01:00:10Z,desktop
+1518,83.0,log_out,/account,27/05/2025 06:55,Tablet
+1,66.0,SEARCH,/search,05/04/2025 10:43,desktop
+1376,68.0,pageview,/orders,2025-01-16 19:46:53,
+1102,88.0,page_view,/account,2025-05-16 06:30:52,
+1109,22.0,add-to-cart,/search,25/03/2025 12:29,
+1227,56.0,SEARCH,/product/105,17/06/2025 01:23,Desktop
+83,88.0,page_view,,10/02/2025 14:29,Desktop
+1289,,search,/home,2025-02-12T23:51:40Z,mobile
+677,6.0,Click,/product/101,04/02/2025 16:22,
+1921,17.0, page_view,/account,04/06/2025 19:33,mobile
+1047,,log_out,/account,04/02/2025 12:13,desktop
+771,4.0,add-to-cart,/product/101,19/01/2025 06:42,MOBILE
+1947,89.0,serach,/orders,2025-02-08T12:20:10Z,Tablet
+1281,23.0,purchase,/products,2025-02-24 02:09:26,tablet
+1581,65.0,ADD TO CART,/search,2025-05-08T06:41:10Z,Mobile
+1489,21.0,click,/product/101,2025-06-15 21:35:31,tablet
+405,51.0,search,/search,2025-01-22T17:48:00Z,tablet
+1728,44.0,log_out,/product/105,2025-04-13 04:58:28,Desktop
+1299,32.0,Purchase,/orders,2025-04-13T08:15:09Z,mobile
+1341,61.0,Page_View,/help,04/06/2025 02:49,Mobile
+105,45.0,search,,2025-06-18T12:54:47Z,desktop
+689,76.0,Click,/products,2025-01-10 08:12:59,tablet
+1306,44.0,search,/cart,25/02/2025 06:48,Desktop
+827,44.0,serach,/product/105,27/05/2025 15:32,
+63,67.0,Search,/search,2025-04-29T21:37:44Z,MOBILE
+853,10.0,pageview,/products,2025-03-25T18:23:53Z,tablet
+1354,21.0,PURCHASE,/home,2025-05-19T14:59:06Z,desktop
+224,45.0,purchase,/orders,2025-04-23T05:14:04Z,desktop
+146,48.0,Logout,/products,2025-05-10T12:08:49Z,Mobile
+1089,20.0,pageview,/help,2025-05-24T17:40:30Z,desktop
+374,87.0,CLICK ,,2025-01-03 02:00:26,
+1421,67.0,pageview,/products,2025-06-21 11:28:06,Mobile
+1143,,Add_To_Cart,/product/105,2025-01-01T20:02:55Z,tablet
+1827,24.0,add_to_cart,/search,2025-03-06T04:00:28Z,tablet
+1495,76.0,search,,07/07/2025 00:29,MOBILE
+1602,55.0,add_to_cart,/products,22/06/2025 10:21,Mobile
+1271,86.0,LOG OUT,/products,09/06/2025 06:56,Mobile
+10,86.0,Click,/home,2025-03-26T22:30:06Z,MOBILE
+450,63.0,Search,/home,2025-01-14 02:31:43,MOBILE
+709,99.0,click,/home,28/01/2025 17:47,mobile
+256,43.0,ADD TO CART,,2025-02-01T11:55:43Z,Desktop
+883,,search,/account,2025-06-30T10:58:22Z,mobile
+390,95.0,add_to_cart,/help,2025-03-24T06:48:02Z,MOBILE
+909,47.0,pageview,/cart,2025-04-05 08:32:58,desktop
+925,61.0,ADD TO CART,/help,2025-06-23 12:19:02,
+1704,15.0,add-to-cart,/checkout,2025-04-25 02:03:21,
+1233,51.0,Logout,/account,2025-07-07T01:29:46Z,
+461,69.0,add_to_cart,/cart,2025-04-13 07:39:47,mobile
+1270,,Click,/products,04/07/2025 13:16,Desktop
+1760,24.0,SEARCH,/checkout,2025-02-03T15:26:05Z,
+1169,10.0,clik,/checkout,09/03/2025 13:03,Mobile
+959,93.0,clik,/product/105,2025-03-17 02:57:01,
+502,67.0,logout,/orders,12/01/2025 16:06,tablet
+111,38.0,log_out,/products,29/04/2025 21:05,
+1850,6.0,ADD TO CART,/checkout,2025-01-16T03:39:56Z,Desktop
+869,22.0,add_to_cart,/product/105,2025-02-06T03:13:35Z,MOBILE
+732,95.0,Logout,/home,2025-04-08 15:37:55,desktop
+540,16.0,Page_View,/help,2025-07-13 01:36:33,
+1202,,Purchase,/home,18/07/2025 20:48,MOBILE
+698,17.0,logout,/product/105,2025-04-12T15:43:34Z,mobile
+1393,31.0,Click,/product/101,2025-04-04T22:15:50Z,
+755,17.0,LOG OUT,/account,05/02/2025 10:35,tablet
+1146,45.0,clik,/orders,2025-04-21 02:38:16,Tablet
+1032,67.0, purchase ,/home,2025-02-16 00:40:21,desktop
+373,13.0,log_out,/search,2025-07-11T07:46:43Z,Desktop
+668,12.0,ADD TO CART,/product/101,27/02/2025 08:00,Desktop
+1526,94.0,logout,/orders,16/07/2025 10:06,desktop
+358,92.0, purchase ,/orders,2025-02-14T15:08:12Z,tablet
+968,38.0,Add_To_Cart,/home,2025-05-30 09:09:37,desktop
+784,50.0,PAGEVIEW,/product/105,14/07/2025 16:32,desktop
+736,40.0, page_view,/products,13/02/2025 09:10,Tablet
+1036,12.0,add-to-cart,/product/101,21/02/2025 08:54,Tablet
+971,27.0,add_to_cart,/product/105,2025-04-28 18:58:40,
+1525,36.0,PURCHASE,/search,2025-04-01 02:23:25,Desktop
+1487,41.0,Search,/search,26/04/2025 21:08,Desktop
+1524,30.0,SEARCH,/account,2025-05-19 01:21:21,
+1491,16.0,page_view,/product/101,2025-01-01T00:04:44Z,tablet
+1643,87.0,CLICK ,/orders,2025-01-17T05:09:20Z,Mobile
+1253,89.0,LOG OUT,/products,12/07/2025 01:19,mobile
+1694,7.0,purchase,/products,2025-02-11 13:56:41,Mobile
+1750,69.0,page_view,/product/105,15/05/2025 13:06,Desktop
+1237,70.0,pageview,/cart,2025-06-19 01:31:37,
+886,37.0,Click,/home,2025-02-01 12:41:25,desktop
+80,74.0,serach,/account,2025-06-12T02:25:32Z,desktop
+1173,78.0,add-to-cart,/orders,2025-07-13T22:37:44Z,MOBILE
+815,79.0,click,/product/101,2025-07-10T21:15:10Z,
+1286,78.0,Page_View,/orders,28/03/2025 16:34,desktop
+672,19.0,SEARCH,/home,2025-06-13 11:45:49,tablet
+1532,64.0,Purchase,/product/101,2025-05-21T01:59:22Z,Tablet
+58,32.0,add-to-cart,/checkout,2025-05-25 06:37:34,
+134,85.0,Purchase,,13/02/2025 20:18,mobile
+1141,3.0,purchase,/product/101,2025-04-12 21:24:01,
+934,50.0,purchase,/cart,2025-04-18T05:10:25Z,
+1685,10.0,CLICK ,/products,2025-03-04T09:53:29Z,Tablet
+824,48.0,Page_View,/checkout,2025-04-26T12:08:40Z,
+1215,76.0,add_to_cart,/product/101,20/07/2025 07:56,MOBILE
+505,34.0,Click,/product/101,2025-06-04 08:55:43,tablet
+1775,13.0,PAGEVIEW,/products,23/05/2025 20:23,Tablet
+348,91.0,Purchase,/product/105,07/06/2025 08:58,MOBILE
+387,86.0,Search,/help,19/01/2025 01:47,Mobile
+1025,16.0,log_out,/product/101,13/07/2025 23:21,Mobile
+895,95.0,page_view,/account,2025-04-07 04:48:00,
+829,77.0,Page_View,/cart,2025-03-06 12:45:22,MOBILE
+1893,76.0,click,/account,23/04/2025 21:13,
+476,100.0, purchase ,/checkout,2025-01-26T05:44:16Z,mobile
+1471,62.0,Logout,/product/105,14/02/2025 18:38,
+1448,70.0,Logout,/cart,2025-05-17T22:32:14Z,Mobile
+1582,53.0,Search,/product/105,29/04/2025 14:08,tablet
+653,96.0,search,/checkout,2025-05-28 03:43:50,tablet
+173,13.0,page_view,/product/101,13/02/2025 10:22,desktop
+1150,51.0,Purchase,/help,2025-04-15 22:48:06,
+39,88.0, purchase ,/search,2025-04-01T05:08:46Z,
+714,23.0,Add_To_Cart,/account,20/06/2025 21:19,Tablet
+91,51.0,Page_View,/search,2025-03-03 15:40:38,
+1937,45.0,purchase,/help,15/02/2025 01:09,mobile
+1206,25.0,Logout,/home,07/02/2025 23:45,Mobile
+72,63.0,Click,/home,2025-03-09T19:24:40Z,Desktop
+1352,16.0,search,/account,2025-05-08T07:57:25Z,MOBILE
+1890,9.0,add_to_cart,/orders,2025-05-13 23:38:36,Mobile
+1094,47.0,CLICK ,/orders,2025-01-07 15:20:57,Mobile
+1156,98.0,PURCHASE,/orders,2025-03-04T23:53:45Z,mobile
+1782,80.0,Logout,/orders,28/01/2025 17:07,mobile
+1959,17.0,search,/account,2025-01-03 19:34:37,Mobile
+500,55.0,Logout,/account,24/01/2025 01:32,Desktop
+339,39.0,Add_To_Cart,/products,10/01/2025 06:58,
+1189,52.0,ADD TO CART,/account,03/07/2025 09:57,
+29,52.0,Logout,/home,2025-03-16T07:52:58Z,Tablet
+1218,16.0, purchase ,/account,14/04/2025 13:54,Desktop
+1400,27.0,SEARCH,/orders,2025-03-02 20:34:25,Mobile
+1821,48.0,purchase,/checkout,2025-02-09 12:54:40,
+946,86.0,Purchase,/cart,15/04/2025 06:01,MOBILE
+170,38.0,log_out,/product/105,2025-05-04 10:15:00,mobile
+1405,15.0, page_view,/account,2025-06-19T04:03:07Z,mobile
+1198,48.0,add-to-cart,/product/105,2025-07-01 03:45:15,Mobile
+1254,35.0,click,/products,31/05/2025 00:06,Mobile
+1614,29.0,pageview,/account,25/05/2025 13:39,
+913,70.0,click,/checkout,2025-03-23T22:10:57Z,Tablet
+492,91.0, purchase ,/products,2025-02-07 03:22:05,desktop
+954,54.0,ADD TO CART,/checkout,2025-06-20T21:40:48Z,Tablet
+1098,93.0,clik,/cart,2025-04-26T21:05:51Z,Tablet
+1033,4.0,ADD TO CART,/checkout,2025-03-05 08:28:50,Tablet
+588,93.0,add_to_cart,/checkout,20/04/2025 22:26,
+751,98.0,clik,/account,22/05/2025 19:10,tablet
+658,24.0,serach,/cart,2025-01-26T10:04:45Z,MOBILE
+235,69.0,ADD TO CART,/account,16/04/2025 17:50,MOBILE
+733,88.0,search,/product/105,2025-06-24T20:09:49Z,MOBILE
+1989,77.0,Logout,/products,2025-02-25T18:44:49Z,
+1633,37.0,Add_To_Cart,/home,2025-03-23T01:09:14Z,Tablet
+1157,96.0,log_out,/home,2025-05-22 22:54:28,tablet
+1470,65.0,add-to-cart,,2025-05-18T00:06:30Z,
+1425,77.0,Page_View,/products,2025-03-27 06:42:51,tablet
+1628,71.0,ADD TO CART,/account,2025-01-22T02:14:59Z,
+935,60.0,add_to_cart,/account,2025-01-04T05:20:08Z,
+1210,36.0,page_view,,2025-02-04 06:26:36,tablet
+1066,34.0,PURCHASE,/product/105,17/06/2025 23:58,Mobile
+109,35.0,Click,/help,28/01/2025 05:28,tablet
+1543,70.0,PURCHASE,,30/01/2025 02:24,Desktop
+569,70.0,clik,/cart,2025-03-16T11:00:33Z,MOBILE
+1168,13.0,logout,/product/101,2025-05-11 04:55:48,
+1175,42.0,Logout,/checkout,19/02/2025 10:33,desktop
+891,30.0,purchase,/cart,2025-06-11 02:06:35,Desktop
+948,78.0,log_out,/help,2025-04-10 15:59:35,Tablet
+1049,46.0,pageview,/products,2025-07-06 05:46:12,MOBILE
+1353,2.0, page_view,/orders,2025-06-18T05:11:14Z,Tablet
+1778,56.0,search,/products,2025-02-05T08:56:41Z,Mobile
+1447,20.0, page_view,/product/101,2025-04-02T18:48:15Z,tablet
+885,28.0,click,/home,13/07/2025 16:06,
+1673,65.0,Purchase,/product/105,15/04/2025 23:05,mobile
+851,19.0,search,/product/105,10/01/2025 05:43,Tablet
+735,100.0,Click,/help,2025-02-09 18:40:31,Mobile
+718,84.0, purchase ,/orders,2025-05-17 15:34:34,tablet
+455,21.0,PURCHASE,/search,07/04/2025 19:43,Tablet
+265,,Logout,/checkout,17/05/2025 00:44,
+76,84.0,add_to_cart,/search,2025-01-23 14:55:07,Desktop
+1658,80.0,Search,/home,2025-01-20T10:42:16Z,
+445,6.0,purchase,/account,03/06/2025 23:19,Desktop
+396,88.0, purchase ,/product/101,12/01/2025 01:41,Desktop
+177,53.0,PAGEVIEW,,2025-06-23T16:49:47Z,Desktop
+1043,47.0,CLICK ,/orders,2025-06-27T04:20:55Z,Desktop
+1023,,clik,/account,04/02/2025 16:55,desktop
+1402,21.0,search,/home,2025-06-14T18:10:49Z,Tablet
+1381,40.0,Click,/products,2025-02-03 20:56:52,Tablet
+596,65.0,PURCHASE,,06/02/2025 14:04,Desktop
+62,79.0,serach,/checkout,21/04/2025 03:00,Desktop
+1297,100.0,Logout,/product/101,10/03/2025 01:59,desktop
+873,36.0,search,/checkout,2025-01-10T13:06:59Z,
+1490,21.0,Logout,/product/101,2025-05-12T01:45:36Z,Desktop
+1879,37.0,Search,/search,2025-05-01T21:57:24Z,Tablet
+279,72.0,serach,/product/105,20/05/2025 11:20,desktop
+37,64.0,serach,/checkout,2025-04-05T10:26:02Z,Desktop
+1976,19.0,log_out,/product/105,04/02/2025 06:36,desktop
+663,89.0,Add_To_Cart,/products,2025-01-12 07:02:12,desktop
+1954,35.0,ADD TO CART,/search,2025-01-15T17:43:57Z,MOBILE
+1445,100.0,log_out,/product/101,2025-01-12T19:59:26Z,desktop
+978,23.0,PURCHASE,/cart,2025-05-17T07:21:17Z,
+1572,73.0,PURCHASE,/search,2025-07-02T23:51:17Z,Tablet
+739,88.0,PURCHASE,/home,2025-06-14 01:47:50,
+192,74.0,serach,/orders,2025-04-19 00:33:06,tablet
+920,81.0,click,/help,18/05/2025 18:13,Tablet
+457,53.0,Search,/product/105,2025-03-21T18:05:58Z,mobile
+676,,click,/account,2025-07-11T11:15:47Z,
+761,84.0,Add_To_Cart,/orders,2025-07-05T12:49:16Z,Mobile
+1808,79.0,Click,/product/105,14/07/2025 18:40,
+1603,86.0,serach,/help,01/06/2025 10:28,Tablet
+729,21.0,Page_View,,2025-03-21T06:35:12Z,Mobile
+413,89.0,Page_View,/search,2025-04-11 05:18:04,MOBILE
+1099,,click,/product/105,2025-04-06 02:09:36,mobile
+826,81.0,Page_View,/home,2025-01-02T11:49:26Z,
+1640,92.0,Click,/cart,2025-04-06T01:28:52Z,tablet
+617,49.0,clik,/home,2025-05-06T02:12:03Z,MOBILE
+115,74.0,serach,,2025-06-24 13:11:22,MOBILE
+418,80.0,SEARCH,/product/101,2025-07-01 22:57:42,MOBILE
+1911,4.0, page_view,/product/101,2025-06-18 18:21:36,
+970,48.0,Purchase,/orders,2025-05-04 12:00:42,Tablet
+605,92.0,Search,/search,2025-06-12T16:41:42Z,mobile
+1919,90.0,PURCHASE,/cart,04/03/2025 12:52,
+90,11.0,LOG OUT,/home,2025-06-18T09:13:33Z,
+849,3.0,purchase,/checkout,2025-05-23T06:26:03Z,mobile
+1520,26.0,logout,/product/105,05/07/2025 02:02,Mobile
+1918,18.0,SEARCH,/home,26/02/2025 22:48,
+754,54.0, purchase ,/products,01/05/2025 03:22,tablet
+499,13.0,Logout,/search,2025-04-10T15:17:36Z,tablet
+1277,30.0,add_to_cart,/account,2025-04-02 14:35:44,Mobile
+1326,67.0,LOG OUT,/help,2025-05-26T07:09:21Z,mobile
+12,30.0,search,/product/101,15/02/2025 01:53,MOBILE
+397,43.0,purchase,/products,2025-05-18 05:10:50,
+285,11.0,search,/checkout,2025-04-17 11:50:45,desktop
+1067,53.0,clik,/cart,2025-06-10T22:25:02Z,
+1192,29.0,Search,/home,2025-04-04 01:48:14,MOBILE
+1745,30.0,logout,/checkout,04/02/2025 00:17,mobile
+691,55.0,add_to_cart,/cart,31/03/2025 22:26,Mobile
+1753,41.0, page_view,/product/105,25/05/2025 00:01,Desktop
+1876,17.0,CLICK ,,2025-03-25 07:29:11,desktop
+210,12.0, purchase ,/orders,12/06/2025 07:14,
+852,92.0,SEARCH,,2025-04-01T17:45:02Z,Desktop
+160,59.0,Search,/products,2025-06-11 05:20:40,Mobile
+896,22.0,page_view,/account,2025-06-10T16:31:08Z,
+1576,58.0,click,/search,2025-03-12T04:15:23Z,mobile
+258,37.0,Click,/checkout,2025-06-06 18:25:54,mobile
+336,53.0,pageview,/cart,2025-06-23 10:35:34,Desktop
+1880,54.0, page_view,/product/105,2025-06-04 09:11:39,desktop
+1040,29.0,Page_View,/orders,2025-03-12T00:31:14Z,Desktop
+516,46.0,Add_To_Cart,/product/101,09/05/2025 01:51,tablet
+1349,34.0,Purchase,/help,2025-07-08T15:50:46Z,
+1016,34.0,add-to-cart,/home,2025-02-02 03:14:29,mobile
+769,58.0,SEARCH,/checkout,2025-06-05T12:27:12Z,Tablet
+1747,8.0,SEARCH,/products,2025-02-06T04:48:17Z,
+762,19.0,search,/products,02/06/2025 03:06,desktop
+1247,1.0,purchase,/product/101,2025-06-02 16:35:49,MOBILE
+1204,27.0,purchase,/product/105,2025-06-13 03:18:23,Tablet
+1468,24.0,CLICK ,/product/101,2025-04-26T13:56:30Z,
+1984,54.0,logout,/account,18/03/2025 23:30,Mobile
+522,86.0,log_out,/product/105,20/04/2025 13:58,
+23,51.0,Page_View,/help,2025-04-19T11:44:04Z,Mobile
+357,71.0,pageview,/checkout,2025-03-14T00:15:27Z,tablet
+1278,81.0,SEARCH,/product/105,2025-02-10T07:47:02Z,MOBILE
+1313,88.0,ADD TO CART,/product/101,2025-01-20 09:38:04,
+1683,61.0,log_out,/account,2025-03-19T02:48:28Z,tablet
+341,13.0,Logout,/product/105,2025-04-28T12:45:55Z,mobile
+432,16.0,search,/cart,2025-01-15T04:20:29Z,MOBILE
+474,50.0,SEARCH,/products,02/03/2025 14:24,desktop
+218,28.0,LOG OUT,/orders,2025-05-19 15:41:49,Tablet
+912,23.0,click,/account,2025-01-31T01:28:40Z,Mobile
+1228,7.0,add-to-cart,/product/101,2025-04-29T21:25:50Z,Tablet
+1597,84.0,Purchase,/search,2025-03-04 02:54:41,
+1012,39.0,PURCHASE,/product/101,2025-04-06T21:09:37Z,Mobile
+1950,93.0,log_out,/home,2025-01-11T21:45:07Z,mobile
+94,65.0, purchase ,/products,2025-05-18 19:09:17,desktop
+1009,60.0,log_out,/product/101,13/06/2025 00:19,desktop
+1071,50.0,search,/product/105,05/04/2025 14:47,Mobile
+1093,42.0,PAGEVIEW,/help,2025-05-07T00:39:57Z,tablet
+1915,43.0,serach,/home,2025-01-03T23:47:18Z,MOBILE
+1309,18.0,Add_To_Cart,/home,2025-01-09T23:04:05Z,
+697,58.0, page_view,/products,2025-05-15 16:50:01,desktop
+1828,19.0,Page_View,/checkout,2025-05-21T12:30:26Z,MOBILE
+997,84.0,LOG OUT,/help,2025-07-17 04:13:19,mobile
+154,67.0,pageview,/account,2025-06-24T04:46:01Z,
+1100,2.0,SEARCH,/help,2025-05-30T20:55:29Z,Tablet
+1719,39.0,clik,/products,26/03/2025 18:33,Tablet
+1998,35.0,SEARCH,/orders,24/04/2025 19:17,Desktop
+790,14.0,Search,/products,2025-01-14 01:36:17,mobile
+581,75.0,Click,/product/105,02/03/2025 12:13,tablet
+704,36.0,pageview,/help,10/07/2025 22:24,
+1213,34.0,LOG OUT,/checkout,2025-06-20T21:53:45Z,
+1296,81.0,Purchase,/product/105,07/06/2025 17:29,Mobile
+1666,3.0,page_view,/cart,2025-03-06 17:13:50,desktop
+1261,18.0,add_to_cart,,2025-02-23T22:07:53Z,Mobile
+488,44.0,click,/checkout,21/04/2025 04:16,Mobile
+560,93.0,add-to-cart,/orders,2025-01-02 12:12:21,Mobile
+1142,60.0,pageview,/home,2025-07-17T08:45:18Z,
+1120,35.0,PURCHASE,/help,2025-02-21T20:12:59Z,mobile
+802,37.0,add_to_cart,/search,14/03/2025 18:07,desktop
+513,93.0,add-to-cart,/product/105,2025-05-31T21:21:58Z,
+634,1.0,LOG OUT,/search,28/03/2025 19:27,Tablet
+1922,75.0,Purchase,/product/101,07/03/2025 05:38,MOBILE
+1788,29.0,add-to-cart,/home,23/01/2025 10:15,
+1546,89.0,ADD TO CART,/orders,2025-03-07 14:29:56,MOBILE
+1151,89.0,click,/orders,2025-05-07T04:58:04Z,desktop
+791,36.0,log_out,/account,2025-02-26T23:52:56Z,desktop
+117,36.0,Purchase,/orders,2025-05-20T00:24:50Z,Tablet
+741,60.0,click,/account,21/02/2025 12:21,Tablet
+1691,54.0,click,/product/101,2025-04-25 11:58:00,Mobile
+1082,25.0,SEARCH,/search,15/07/2025 13:23,Desktop
+831,34.0,PAGEVIEW,/account,2025-03-27T01:08:13Z,Tablet
+120,29.0,PURCHASE,/product/101,2025-06-01T10:51:47Z,Tablet
+657,16.0, page_view,/orders,31/05/2025 18:36,mobile
+1908,84.0,add_to_cart,/product/105,2025-07-18 01:07:30,MOBILE
+636,52.0,click,/help,2025-05-16 08:44:48,Tablet
+370,97.0,Page_View,/search,2025-03-19T15:47:48Z,Desktop
+269,35.0,Purchase,,2025-01-13 17:01:11,desktop
+656,49.0,search,/search,2025-06-16T12:17:40Z,
+936,,serach,/account,2025-03-19T13:16:47Z,mobile
+823,23.0, purchase ,/products,2025-03-06T03:02:54Z,mobile
+867,64.0,log_out,/cart,2025-03-23T05:09:02Z,Desktop
+47,36.0,logout,/product/101,2025-03-22 00:13:37,tablet
+1374,61.0,logout,/product/105,2025-04-25T10:02:01Z,desktop
+1709,69.0,logout,/checkout,2025-05-03 17:30:12,desktop
+992,63.0,logout,/orders,25/05/2025 13:02,
+877,62.0,CLICK ,/product/105,2025-06-21T15:31:50Z,tablet
+774,56.0,Add_To_Cart,/product/105,07/05/2025 15:02,mobile
+1220,55.0,Page_View,,15/02/2025 01:08,Tablet
+2000,19.0, purchase ,,18/04/2025 10:22,
+5,67.0,add-to-cart,/orders,14/02/2025 14:58,
+1004,3.0,ADD TO CART,/home,2025-03-05 05:36:00,
+1724,85.0,logout,/search,2025-01-04 21:20:12,tablet
+264,82.0,PURCHASE,/checkout,28/02/2025 02:28,tablet
+1570,86.0,Logout,/product/105,2025-02-21 01:51:44,mobile
+1831,45.0,Search,/search,18/04/2025 23:05,
+444,30.0,add_to_cart,/search,2025-02-04T15:48:23Z,desktop
+1003,13.0,add_to_cart,/account,2025-06-16 09:14:44,tablet
+1078,45.0,serach,/search,09/02/2025 14:34,Desktop
+838,6.0,Logout,/cart,2025-04-12T15:42:07Z,mobile
+1791,66.0, purchase ,/checkout,2025-07-20 12:09:54,desktop
+305,3.0,serach,/product/105,11/05/2025 22:06,
+1366,79.0,Search,/product/101,09/07/2025 18:54,Desktop
+1558,43.0,PURCHASE,/account,2025-06-24T01:22:45Z,Desktop
+314,48.0, purchase ,/search,2025-02-19 07:02:26,desktop
+150,87.0,serach,,2025-07-19 21:00:30,MOBILE
+1149,33.0,Search,/product/105,2025-03-27T15:07:20Z,Tablet
+1214,77.0,Click,/home,11/03/2025 10:32,tablet
+575,71.0,click,/product/101,2025-01-26 00:53:43,tablet
+51,92.0,Add_To_Cart,/account,12/06/2025 04:47,Tablet
+1553,18.0,Purchase,/home,2025-05-22T06:39:18Z,MOBILE
+727,24.0,logout,/search,17/06/2025 20:25,MOBILE
+834,29.0, purchase ,/cart,2025-02-28 00:59:03,Desktop
+1378,42.0,log_out,/search,2025-03-13 09:55:10,
+1116,42.0,add-to-cart,/cart,2025-05-28 10:44:12,Tablet
+1167,75.0,Add_To_Cart,/checkout,03/05/2025 06:12,
+471,95.0,Search,/account,28/01/2025 05:13,tablet
+972,95.0,search,/account,2025-03-26T16:04:17Z,
+654,55.0,click,/products,2025-05-02T05:03:07Z,Tablet
+400,19.0,log_out,/product/101,2025-02-04T14:46:12Z,Tablet
+512,83.0,purchase,/search,15/06/2025 11:28,Mobile
+321,84.0,click,/products,2025-04-26T20:23:05Z,tablet
+20,77.0,pageview,/search,2025-04-03 02:58:36,Mobile
+685,63.0,Search,/checkout,2025-07-19T12:32:46Z,tablet
+36,91.0,CLICK ,/cart,17/05/2025 20:22,Tablet
+903,17.0,log_out,/checkout,2025-06-01T19:17:51Z,
+1779,91.0,pageview,/product/101,2025-06-17T07:32:28Z,desktop
+828,9.0,serach,/products,2025-02-02 16:19:06,
+1854,43.0,PURCHASE,/help,2025-02-04 01:07:09,
+408,10.0,SEARCH,,2025-04-20T08:44:39Z,Desktop
+921,88.0,CLICK ,/orders,2025-07-10 08:05:32,desktop
+538,65.0, purchase ,/product/101,2025-03-25T02:51:39Z,tablet
+759,81.0,PURCHASE,/orders,2025-03-24 06:05:05,tablet
+1905,35.0,LOG OUT,/product/105,2025-06-28T04:50:55Z,mobile
+1063,68.0,LOG OUT,/home,2025-01-26 14:11:57,Tablet
+1200,60.0,LOG OUT,/help,2025-07-11T12:48:16Z,tablet
+246,44.0,clik,/checkout,2025-05-27T08:11:47Z,Desktop
+1417,37.0,page_view,/home,2025-04-14T15:36:58Z,
+1128,12.0,Purchase,/products,2025-03-08T07:15:03Z,
+785,84.0,logout,/product/101,2025-04-04T12:28:55Z,
+525,13.0,pageview,/home,2025-01-29T11:12:32Z,tablet
+490,22.0,Purchase,/orders,2025-06-18 20:51:28,Desktop
+155,34.0, purchase ,/home,2025-05-27T06:21:46Z,Desktop
+962,100.0,logout,/search,05/07/2025 01:18,Mobile
+854,55.0,click,/checkout,2025-04-03T10:26:57Z,Tablet
+1312,32.0,add-to-cart,/search,14/03/2025 19:07,Mobile
+626,59.0,CLICK ,/product/105,2025-06-19 05:00:07,tablet
+686,14.0,Click,/checkout,2025-07-16T21:15:03Z,Tablet
+1562,54.0,logout,/checkout,05/04/2025 13:53,
+570,65.0,logout,/account,2025-02-21 20:58:12,Tablet
+1909,39.0,Page_View,/home,2025-05-19 01:33:40,
+18,52.0,SEARCH,/products,2025-03-17 11:39:14,MOBILE
+128,34.0,search,/checkout,28/01/2025 23:00,
+1347,7.0,CLICK ,/products,17/05/2025 03:59,
+1280,97.0,add-to-cart,/product/101,2025-02-10 15:24:00,Tablet
+1969,30.0,search,/account,25/01/2025 10:27,
+928,1.0,Click,/cart,17/02/2025 07:54,mobile
+981,41.0,purchase,/cart,23/02/2025 18:43,MOBILE
+1965,77.0,SEARCH,/orders,2025-03-14 10:25:25,MOBILE
+191,17.0,Search,/orders,13/06/2025 10:45,
+1140,27.0,search,/search,29/01/2025 02:46,
+993,74.0,page_view,/help,2025-05-23T03:34:10Z,mobile
+1956,63.0,Purchase,/account,25/03/2025 22:48,Mobile
+1657,76.0,serach,/product/105,2025-04-29 21:46:51,tablet
+607,3.0,PAGEVIEW,/product/105,2025-01-17T07:56:06Z,MOBILE
+181,74.0, purchase ,/checkout,2025-05-08 23:41:01,tablet
+302,15.0,purchase,/checkout,2025-05-18T06:13:34Z,desktop
+497,78.0,PURCHASE,/product/101,2025-07-17 12:05:01,MOBILE
+1721,28.0,CLICK ,/account,2025-01-30T02:36:15Z,
+1710,56.0,search,/checkout,24/04/2025 22:19,Desktop
+1888,38.0,LOG OUT,/cart,2025-01-14 12:46:24,
+1992,76.0,purchase,/product/101,2025-07-03T17:37:45Z,mobile
+518,89.0,logout,/home,2025-04-23 14:53:48,mobile
+1985,47.0,purchase,/checkout,13/02/2025 19:32,MOBILE
+1070,26.0,log_out,/product/105,2025-01-10 15:30:06,Desktop
+477,78.0,LOG OUT,/search,2025-07-15 01:41:41,
+158,43.0,LOG OUT,/search,2025-05-01T01:55:40Z,mobile
+1244,89.0,PURCHASE,/home,2025-04-10T13:06:51Z,tablet
+1196,23.0,PURCHASE,/product/101,17/02/2025 07:50,MOBILE
+17,39.0,logout,/cart,2025-06-27 07:03:42,
+1536,98.0,ADD TO CART,/product/101,10/04/2025 02:02,
+1073,26.0, page_view,/account,2025-03-16 16:04:14,Desktop
+1972,59.0,search,/orders,17/05/2025 12:27,tablet
+547,76.0,Click,/cart,2025-04-25T02:54:40Z,Desktop
+1540,28.0,add_to_cart,/products,08/04/2025 10:16,MOBILE
+659,,log_out,/products,2025-05-30T17:45:52Z,mobile
+1626,15.0,PURCHASE,/account,2025-05-16 22:38:25,Tablet
+1020,97.0,log_out,/product/105,2025-04-13T09:24:57Z,tablet
+1663,,Purchase,/help,08/05/2025 14:40,Desktop
+1505,47.0,add_to_cart,/search,2025-03-16T22:05:42Z,MOBILE
+960,88.0,Click,/search,2025-01-29 19:53:21,Desktop
+1882,90.0,CLICK ,/orders,2025-03-20 08:49:17,
+284,68.0,LOG OUT,/home,2025-06-05 22:04:00,
+798,85.0,add-to-cart,/home,2025-07-09 22:27:23,mobile
+1627,81.0,purchase,/orders,2025-01-21 18:39:13,desktop
+226,76.0,purchase,/product/105,2025-05-27T18:10:08Z,
+27,30.0,Add_To_Cart,/cart,2025-07-05T03:02:51Z,tablet
+1771,16.0,page_view,/help,2025-01-24T12:36:48Z,MOBILE
+438,19.0,Add_To_Cart,/product/105,2025-01-21 13:44:48,mobile
+1949,78.0,ADD TO CART,/home,10/05/2025 01:48,
+1389,35.0,Purchase,/help,2025-03-25T04:39:05Z,
+138,65.0,click,/product/101,2025-06-07T19:02:56Z,
+38,3.0,log_out,/cart,2025-03-26 07:24:36,
+750,,add_to_cart,/search,27/04/2025 13:26,
+1046,72.0,add-to-cart,/product/101,2025-04-01T02:46:17Z,desktop
+1399,5.0,add-to-cart,/help,2025-06-25T14:33:32Z,
+470,67.0,LOG OUT,/search,02/03/2025 19:07,Tablet
+1693,46.0,pageview,/cart,19/02/2025 14:34,tablet
+1968,,CLICK ,/products,2025-04-04 00:04:23,Mobile
+688,36.0,Add_To_Cart,/account,2025-06-30T03:44:46Z,MOBILE
+1844,16.0,CLICK ,/home,2025-07-17 18:52:27,MOBILE
+640,64.0,add-to-cart,/product/101,2025-01-30 15:42:34,Desktop
+1713,29.0,Purchase,/help,07/03/2025 12:40,desktop
+1219,22.0,LOG OUT,/help,2025-01-22T03:05:05Z,Mobile
+1159,69.0,PAGEVIEW,/help,13/05/2025 15:11,desktop
+1416,68.0,PAGEVIEW,/checkout,2025-02-10 21:40:41,Desktop
+1528,,ADD TO CART,/search,2025-01-14 21:44:11,Mobile
+1656,48.0,Click,/help,19/01/2025 10:59,Desktop
+1301,32.0,Search,/checkout,16/05/2025 13:13,desktop
+1823,5.0,purchase,/home,16/01/2025 16:29,tablet
+801,2.0,Search,/search,2025-05-14T09:39:35Z,MOBILE
+1604,8.0,Page_View,/home,2025-04-22 05:42:00,
+161,27.0,Click,/search,19/07/2025 02:08,tablet
+957,18.0,logout,/help,2025-04-15 00:20:39,MOBILE
+1187,50.0,purchase,/orders,2025-02-22T21:31:27Z,Tablet
+822,4.0,Click,/products,2025-05-08 21:30:20,Desktop
+1682,35.0,search,/search,2025-02-04 18:55:38,
+878,70.0,Page_View,/products,13/07/2025 09:26,Desktop
+914,86.0,search,/products,14/07/2025 16:09,mobile
+153,14.0,ADD TO CART,/checkout,2025-03-08T20:45:57Z,desktop
+1871,78.0, purchase ,/product/101,24/04/2025 01:08,Mobile
+1777,31.0,purchase,/search,28/05/2025 19:38,desktop
+510,2.0,serach,/account,2025-07-08T18:38:46Z,desktop
+1136,,CLICK ,/product/105,04/07/2025 12:46,tablet
+1251,92.0,click,/checkout,2025-03-09 10:20:56,MOBILE
+1684,,log_out,/cart,2025-05-08T08:35:22Z,desktop
+104,32.0,log_out,/product/105,20/05/2025 07:09,Mobile
+1446,49.0,CLICK ,/help,2025-03-10 14:32:19,mobile
+1444,71.0,clik,/cart,26/06/2025 17:35,tablet
+587,66.0,clik,/product/105,2025-07-11T06:30:14Z,
+1769,46.0,Page_View,,06/01/2025 00:35,Desktop
+1144,90.0,click,/cart,03/06/2025 11:29,
+54,93.0,Click,/account,2025-03-10 09:17:31,mobile
+152,67.0,purchase,/home,2025-06-19T11:35:41Z,desktop
+404,76.0,logout,/account,2025-01-11T15:46:49Z,Mobile
+1943,11.0,PAGEVIEW,/search,03/07/2025 19:25,Desktop
+208,10.0,logout,/cart,19/03/2025 19:05,tablet
+1895,58.0,log_out,/checkout,2025-07-14 10:43:38,tablet
+1123,57.0,PAGEVIEW,/search,2025-06-30 19:29:18,MOBILE
+1891,61.0,click,/home,20/03/2025 10:02,
+9,28.0,LOG OUT,/orders,2025-02-05T03:39:47Z,Desktop
+1015,84.0,ADD TO CART,/product/101,2025-05-05 17:29:42,Tablet
+1907,83.0,page_view,/account,2025-03-06T18:58:46Z,MOBILE
+1061,99.0,search,/orders,2025-02-18T02:19:57Z,
+453,49.0,page_view,/product/101,2025-07-19 09:56:45,
+254,95.0,Page_View,/account,11/06/2025 16:34,
+1328,100.0,purchase,/account,06/01/2025 17:30,mobile
+897,2.0,PURCHASE,/cart,2025-06-07 11:36:41,MOBILE
+1734,91.0,page_view,/products,2025-06-28 14:20:40,Tablet
+881,53.0, purchase ,/account,2025-01-14 08:31:46,Tablet
+1596,86.0,Search,/product/101,2025-04-01 12:03:24,Tablet
+1889,84.0,add-to-cart,/cart,30/04/2025 04:43,Desktop
+624,73.0,PURCHASE,/checkout,2025-05-06T20:44:23Z,Mobile
+346,87.0,purchase,/products,2025-02-15T22:38:57Z,
+1703,42.0,Click,/help,2025-02-13 21:53:22,Tablet
+263,42.0,PURCHASE,/orders,2025-06-28T17:11:37Z,
+1635,18.0,Click,/home,2025-02-04 10:25:36,Desktop
+1322,1.0,Purchase,/checkout,2025-05-03T21:58:35Z,
+1439,46.0,Search,/help,2025-05-10 11:28:59,
+151,2.0,LOG OUT,/cart,2025-04-07 11:29:16,
+473,92.0,add_to_cart,,2025-07-09T21:51:03Z,Desktop
+641,97.0,search,/products,03/07/2025 00:10,tablet
+1983,28.0,clik,/product/101,2025-05-07 14:29:29,Desktop
+1883,35.0,Add_To_Cart,/orders,2025-05-27 08:28:36,MOBILE
+551,56.0,LOG OUT,/checkout,2025-07-12 22:28:17,Tablet
+1780,20.0,Purchase,/home,2025-05-09T02:31:16Z,Tablet
+929,20.0,add_to_cart,/search,26/01/2025 15:35,Desktop
+489,64.0,ADD TO CART,/account,09/03/2025 19:53,
+1812,98.0,add-to-cart,/cart,01/05/2025 00:24,Tablet
+1172,72.0,click,/checkout,13/03/2025 14:41,desktop
+147,26.0,click,/search,03/04/2025 22:12,
+1705,7.0,logout,/cart,20/03/2025 08:30,Desktop
+1929,37.0,logout,/product/105,2025-01-05T06:33:51Z,
+403,28.0,PURCHASE,/home,08/07/2025 07:15,Desktop
+955,69.0, purchase ,/search,2025-04-26 05:59:55,tablet
+1878,80.0,search,/account,21/02/2025 22:06,desktop
+660,27.0,Page_View,/help,02/01/2025 17:28,mobile
+1373,42.0,PAGEVIEW,/checkout,2025-02-25T23:11:23Z,Desktop
+464,67.0,log_out,/product/105,2025-07-10T14:17:59Z,
+1350,55.0,Click,/products,15/02/2025 17:43,Mobile
+187,65.0,purchase,/orders,22/05/2025 13:53,
+1148,74.0,clik,/products,2025-01-29T16:34:02Z,mobile
+1225,31.0,ADD TO CART,/product/105,2025-02-08 22:09:02,Mobile
+609,16.0,PAGEVIEW,/checkout,13/04/2025 20:20,Desktop
+144,,ADD TO CART,/cart,2025-06-28 21:06:55,MOBILE
+752,85.0,PURCHASE,/help,2025-01-26 02:51:53,mobile
+1535,70.0,logout,/product/105,2025-03-28 19:39:57,
+982,51.0,Click,/checkout,02/05/2025 20:38,desktop
+198,6.0,LOG OUT,/product/101,2025-03-07T00:21:29Z,MOBILE
+1634,21.0,LOG OUT,/account,2025-02-16T14:48:21Z,MOBILE
+884,67.0,Logout,/product/101,2025-04-12 22:14:18,Tablet
+280,77.0,Logout,/products,2025-04-26T09:52:16Z,Tablet
+294,39.0,log_out,/products,17/07/2025 10:22,tablet
+1824,97.0,Logout,/search,16/01/2025 06:06,desktop
+401,26.0,pageview,/home,2025-01-29 14:29:26,Tablet
+123,42.0,Click,/products,2025-04-04T02:23:45Z,tablet
+1208,67.0, purchase ,/account,2025-01-10T21:49:35Z,
+203,93.0,LOG OUT,/orders,2025-04-25T15:02:18Z,Desktop
+1463,75.0,PAGEVIEW,/account,2025-06-24T08:50:57Z,
+836,15.0,LOG OUT,/checkout,2025-04-22 01:15:14,Mobile
+247,26.0,CLICK ,/product/105,2025-03-05 19:22:09,mobile
+1440,4.0, page_view,/search,2025-06-20 02:53:53,Desktop
+1754,12.0, page_view,/product/101,28/01/2025 06:34,Mobile
+1902,76.0,Page_View,/help,2025-06-20T07:56:05Z,Desktop
+1708,28.0,Page_View,/product/105,2025-05-14 19:11:27,
+1881,9.0,add_to_cart,/orders,06/01/2025 02:53,Desktop
+1154,80.0,purchase,/search,08/05/2025 10:22,
+1662,2.0,logout,/orders,23/05/2025 17:03,desktop
+1427,90.0,page_view,/home,14/04/2025 13:27,Tablet
+385,57.0,click,,2025-06-01 07:31:24,
+1759,86.0,LOG OUT,/cart,25/04/2025 15:56,Mobile
+855,38.0,CLICK ,/home,2025-02-08T18:01:06Z,Desktop
+1590,61.0,CLICK ,/product/105,19/04/2025 13:05,Mobile
+220,79.0,Logout,/search,2025-05-25 18:42:55,
+642,29.0,serach,/products,2025-05-17 20:46:31,Tablet
+2,93.0,search,/help,2025-06-17T18:36:14Z,Mobile
+110,100.0,Click,/account,2025-06-11T20:05:37Z,desktop
+699,97.0,log_out,/account,2025-02-22T05:00:10Z,Desktop
+1916,85.0,clik,,24/01/2025 04:14,Desktop
+952,3.0,add-to-cart,/product/105,2025-05-18 04:24:38,mobile
+1649,64.0,SEARCH,/product/105,27/04/2025 05:10,desktop
+1637,47.0, page_view,/account,03/05/2025 19:39,Desktop
+1886,41.0,Add_To_Cart,/products,2025-03-13T07:20:49Z,Mobile
+1411,47.0,add-to-cart,/products,2025-07-08 20:00:51,Tablet
+1410,74.0,Click,/help,2025-02-02T00:53:52Z,Desktop
+1534,75.0,ADD TO CART,/product/101,2025-02-24T13:02:32Z,desktop
+1292,63.0,Page_View,/product/101,2025-03-15 16:39:50,Tablet
+1809,16.0,PURCHASE,/product/105,2025-04-18 17:55:06,MOBILE
+442,75.0,Logout,/product/105,2025-02-13 17:00:46,Desktop
+1521,100.0,log_out,/product/105,2025-01-18 14:57:18,Tablet
+1137,22.0,PURCHASE,/product/105,2025-01-28T00:54:01Z,Mobile
+1716,37.0,add-to-cart,/cart,2025-05-12T16:19:39Z,
+1257,,LOG OUT,/help,2025-07-18 06:31:35,Mobile
+1864,74.0,Click,/product/101,23/05/2025 13:22,Mobile
+1632,19.0,add-to-cart,/help,2025-02-09T20:05:41Z,
+1696,36.0, purchase ,/checkout,2025-01-10 12:09:50,mobile
+1398,,search,/product/101,2025-04-12 23:50:46,
+664,28.0,Logout,/help,2025-02-02 23:39:27,
+1836,21.0,LOG OUT,/products,2025-05-22 12:36:35,Mobile
+1258,79.0,CLICK ,/checkout,01/06/2025 13:58,desktop
+1774,,LOG OUT,/product/105,2025-01-31 03:46:53,
+521,51.0,click,/products,2025-07-19T15:15:59Z,MOBILE
+318,67.0,Page_View,/cart,19/03/2025 09:29,desktop
+649,49.0,Add_To_Cart,/product/105,2025-02-27 22:47:03,
+1435,85.0,clik,/home,19/05/2025 05:06,Mobile
+1480,9.0,Purchase,/home,02/07/2025 20:12,Desktop
+710,62.0,Purchase,/cart,2025-02-09T07:03:34Z,desktop
+1383,37.0,log_out,/account,2025-07-03T15:09:31Z,Desktop
+1283,79.0,PURCHASE,/checkout,2025-02-24 23:51:49,Desktop
+973,69.0, page_view,/help,2025-03-04 08:51:47,Desktop
+628,85.0,LOG OUT,/account,2025-07-06T02:06:40Z,Tablet
+633,62.0,page_view,/home,2025-01-02 21:37:50,mobile
+1307,33.0,search,/account,2025-02-06T03:05:06Z,
+1401,36.0,clik,/products,2025-05-27 10:07:29,Tablet
+1409,37.0,PAGEVIEW,/home,2025-06-24 12:40:33,Tablet
+1249,38.0,page_view,/cart,05/02/2025 22:16,MOBILE
+1953,84.0,add-to-cart,/product/101,22/03/2025 07:38,Mobile
+1255,47.0,PAGEVIEW,/product/101,2025-05-24 07:05:21,MOBILE
+1497,86.0,add_to_cart,,15/06/2025 12:58,mobile
+1372,26.0,SEARCH,/help,2025-01-10 02:53:23,tablet
+1530,41.0,LOG OUT,,2025-04-17 22:58:03,Tablet
+1664,67.0,serach,/account,2025-04-13T23:19:49Z,mobile
+1355,20.0,Logout,/products,05/02/2025 10:36,Mobile
+1926,32.0,click,/orders,2025-03-06 19:52:15,Tablet
+1901,99.0,clik,/products,02/01/2025 17:27,desktop
+1644,75.0,add-to-cart,/account,2025-03-14T22:16:58Z,MOBILE
+1849,5.0,Click,/checkout,2025-03-05 06:11:00,Desktop
+796,43.0,SEARCH,/orders,2025-05-05 08:23:29,Tablet
+646,55.0,Add_To_Cart,/orders,2025-06-01 07:06:25,
+1013,50.0,Click,/home,09/01/2025 07:10,Mobile
+1840,,PAGEVIEW,/help,2025-02-17 13:53:29,desktop
+557,71.0,Search,/products,2025-07-10T02:08:16Z,Desktop
+682,85.0, purchase ,/checkout,20/04/2025 05:34,mobile
+578,98.0,CLICK ,/product/101,2025-01-14 20:50:17,
+1110,95.0,purchase,/product/101,08/04/2025 20:09,Mobile
+491,83.0,Click,/products,2025-04-05 16:16:44,desktop
+1723,57.0,PAGEVIEW,/checkout,2025-04-19 13:37:13,Tablet
+1184,50.0,logout,/product/101,09/07/2025 19:17,mobile
+525,54.0,SEARCH,/checkout,2025-01-03T08:57:33Z,MOBILE
+1060,55.0,purchase,,2025-01-27T10:35:30Z,tablet
+541,3.0,Logout,/home,2025-02-22T07:53:45Z,
+1195,61.0,Click,/home,2025-02-20 19:45:04,mobile
+1679,65.0,add-to-cart,/help,14/06/2025 07:34,Tablet
+749,96.0,Purchase,/help,2025-03-31T06:12:43Z,Mobile
+1852,27.0,Click,/product/101,2025-03-05T12:58:10Z,tablet
+1431,77.0, purchase ,/product/105,2025-02-20T14:37:28Z,mobile
+485,61.0,add-to-cart,/product/105,01/07/2025 13:47,mobile
+1758,19.0,purchase,/product/101,2025-02-24 18:17:48,MOBILE
+96,94.0,click,/product/105,2025-04-22T03:29:39Z,Mobile
+1021,60.0,SEARCH,/home,2025-07-01 17:42:19,mobile
+564,89.0,click,/search,2025-06-06 20:27:04,Mobile
+1265,37.0,Add_To_Cart,/account,02/05/2025 16:04,Tablet
+743,5.0,purchase,/checkout,2025-05-02 06:03:13,tablet
+864,46.0,Search,/cart,2025-03-28 18:38:39,Mobile
+1599,99.0,LOG OUT,,18/06/2025 02:14,MOBILE
+1715,69.0,SEARCH,/product/101,2025-01-22T17:38:26Z,
+1427,84.0,SEARCH,/product/105,2025-02-01T04:34:29Z,
+892,63.0,Page_View,/account,2025-05-02T16:46:53Z,Desktop
+1578,39.0,Add_To_Cart,/home,16/04/2025 07:42,Desktop
+1039,19.0,LOG OUT,/account,09/04/2025 03:54,mobile
+207,3.0,pageview,/home,2025-06-08T02:48:47Z,Mobile
+393,99.0,Click,/product/101,2025-05-14 14:26:15,Mobile
+795,3.0,Add_To_Cart,/orders,2025-07-13 04:49:06,desktop
+871,67.0,PURCHASE,/products,31/01/2025 14:56,desktop
+398,10.0,serach,/help,18/04/2025 06:47,Desktop
+767,62.0,PAGEVIEW,/orders,30/04/2025 23:51,
+1842,73.0,PURCHASE,/cart,2025-03-31T19:46:39Z,Tablet
+1242,99.0,log_out,/orders,2025-06-21 19:17:50,Tablet
+1029,13.0,Purchase,/help,2025-06-01 13:42:17,
+1793,75.0,CLICK ,,2025-01-28T16:19:32Z,
+643,74.0,logout,/checkout,03/07/2025 23:47,
+1892,38.0,add-to-cart,,10/01/2025 07:45,desktop
+613,95.0,logout,,2025-07-14T03:19:15Z,tablet
+1763,70.0,SEARCH,/help,16/04/2025 08:30,
+961,, page_view,/orders,09/04/2025 02:50,
+1571,47.0,log_out,,04/07/2025 08:23,tablet
+726,21.0,pageview,/account,2025-02-02T23:13:25Z,Mobile
+684,37.0, purchase ,/checkout,2025-02-11T21:12:30Z,desktop
+99,34.0,logout,/search,2025-04-03T01:31:54Z,MOBILE
+805,87.0, purchase ,/products,2025-03-19T19:19:11Z,tablet
+1752,54.0,pageview,/checkout,20/05/2025 18:01,
+1598,51.0,PURCHASE,/products,2025-01-02 15:42:20,
+407,60.0,serach,/product/101,2025-04-05T20:29:45Z,Mobile
+503,85.0,ADD TO CART,/cart,2025-07-16T16:01:07Z,
+1072,65.0,Click,/checkout,04/01/2025 04:21,MOBILE
+1057,78.0,LOG OUT,/search,2025-05-21 12:50:28,
+930,86.0,Purchase,/products,23/03/2025 04:25,desktop
+780,89.0,add_to_cart,/products,2025-03-19T02:16:21Z,tablet
+201,38.0,log_out,/orders,16/06/2025 00:07,
+135,51.0,SEARCH,/products,10/04/2025 05:23,Tablet
+1052,34.0,CLICK ,/products,2025-07-12 03:33:16,Mobile
+41,81.0,Search,/home,2025-04-27T11:03:39Z,
+1018,88.0,Page_View,/checkout,2025-07-19T04:36:55Z,
+231,12.0,click,/account,05/04/2025 01:44,Desktop
+1514,72.0,page_view,/products,01/01/2025 19:11,mobile
+1797,68.0,click,/account,27/02/2025 10:43,
+379,26.0,clik,/products,2025-07-16T13:13:39Z,mobile
+289,41.0,ADD TO CART,/account,2025-04-21 23:20:38,
+419,6.0,Logout,/search,2025-02-17 06:35:45,Tablet
+1699,88.0,Add_To_Cart,/help,2025-02-13 03:54:52,
+392,81.0,click,/search,2025-01-02T05:59:05Z,desktop
+593,26.0,PURCHASE,/product/105,2025-06-18 16:04:29,Tablet
+1523,55.0,Logout,/cart,19/05/2025 16:12,MOBILE
+1163,90.0,SEARCH,/orders,2025-05-02T01:17:27Z,tablet
+1087,,PAGEVIEW,/products,2025-04-02 06:47:09,desktop
+583,43.0,log_out,/search,2025-03-26 00:57:44,tablet
+648,40.0,search,/cart,2025-06-30 18:30:40,
+1153,58.0,PURCHASE,,02/06/2025 09:21,Desktop
+1368,44.0,Purchase,/checkout,2025-05-28 05:25:37,Desktop
+521,54.0,Page_View,/search,10/05/2025 05:05,tablet
+1863,70.0,Logout,/home,19/05/2025 15:31,
+65,67.0,purchase,/search,2025-04-26 10:04:19,mobile
+1837,14.0,logout,/product/105,2025-02-15 05:01:57,tablet
+15,2.0,Add_To_Cart,/product/101,2025-06-13T12:52:27Z,Tablet
+1181,47.0,page_view,/products,2025-05-21 17:17:08,tablet
+1065,85.0,Add_To_Cart,/account,2025-04-06 12:02:09,Desktop
+493,22.0,Add_To_Cart,/help,2025-01-02 16:49:36,tablet
+380,92.0,page_view,/products,06/03/2025 14:01,MOBILE
+188,23.0,Click,/products,2025-06-03T19:56:20Z,tablet
+764,54.0,add-to-cart,/product/101,2025-01-03T05:42:36Z,Mobile
+217,94.0,page_view,/home,2025-06-11T00:52:37Z,tablet
+792,22.0,ADD TO CART,/help,2025-01-01T03:11:32Z,
+1077,84.0, purchase ,/cart,2025-04-10 14:58:47,
+879,15.0,add_to_cart,/checkout,30/06/2025 04:49,
+338,50.0,PAGEVIEW,/checkout,2025-03-11 13:05:31,Tablet
+1773,70.0,ADD TO CART,/orders,22/01/2025 17:27,tablet
+720,18.0,PAGEVIEW,/checkout,2025-07-19 04:18:29,
+1749,64.0,Click,,2025-06-27 20:43:13,tablet
+296,90.0, page_view,/search,28/05/2025 16:05,desktop
+1726,41.0,clik,/home,2025-06-26T16:20:52Z,mobile
+1017,38.0,ADD TO CART,/search,2025-01-22T16:11:25Z,Desktop
+1276,85.0,search,/search,2025-02-25 13:56:21,mobile
+1751,2.0, purchase ,/product/101,08/02/2025 01:02,Desktop
+1486,69.0,log_out,/help,2025-07-18T04:56:56Z,Mobile
+456,76.0,ADD TO CART,,10/06/2025 10:24,Tablet
+1997,10.0,CLICK ,/help,2025-04-13T09:29:47Z,
+816,62.0,search,/help,2025-06-20T08:25:24Z,mobile
+1887,5.0,clik,/orders,22/06/2025 13:03,tablet
+270,92.0,Page_View,/products,07/05/2025 06:21,
+996,1.0,purchase,/home,2025-04-20 04:16:54,Tablet
+202,83.0,Logout,/home,2025-03-24 12:58:50,tablet
+162,62.0,pageview,/product/105,2025-01-04T10:48:53Z,Desktop
+1580,94.0,pageview,/cart,23/02/2025 11:52,MOBILE
+730,11.0,logout,/help,2025-05-04 01:03:20,desktop
+402,38.0,Search,/help,2025-02-28T02:26:54Z,
+703,91.0,Add_To_Cart,/account,2025-03-17 10:03:40,Tablet
+1501,67.0,logout,/search,2025-06-24T21:41:31Z,mobile
+1846,34.0,SEARCH,/home,01/01/2025 16:54,desktop
+836,85.0,add_to_cart,/products,2025-07-01 19:31:49,
+1130,50.0,serach,/home,2025-03-16T15:01:42Z,tablet
+566,60.0,logout,/checkout,22/06/2025 00:29,Desktop
+1414,62.0,purchase,/checkout,03/05/2025 07:35,Mobile
+1022,53.0,Purchase,/product/105,2025-02-10T20:26:25Z,Desktop
+1026,33.0, purchase ,/help,01/07/2025 22:55,desktop
+1412,89.0,page_view,/product/105,31/01/2025 04:17,Tablet
+1896,27.0,CLICK ,/product/101,2025-06-27T19:55:54Z,
+1586,39.0,logout,/product/105,16/05/2025 20:44,MOBILE
+1105,65.0,clik,/cart,2025-07-08T07:33:00Z,desktop
+206,7.0,add_to_cart,/help,2025-03-08T13:24:28Z,tablet
+35,27.0,ADD TO CART,/home,18/02/2025 23:07,Desktop
+776,37.0,purchase,/orders,2025-01-11 10:41:01,
+509,3.0,clik,/search,26/04/2025 18:15,tablet
+1452,44.0,click,/cart,2025-05-11T03:25:21Z,Mobile
+1479,4.0,log_out,/product/101,2025-05-02T11:45:00Z,
+1971,49.0,SEARCH,/product/105,2025-03-23T22:58:29Z,Mobile
+1391,59.0,clik,/product/105,2025-06-17 18:11:53,Tablet
+92,2.0,Add_To_Cart,/account,2025-05-26T13:23:34Z,MOBILE
+1364,50.0,LOG OUT,/search,08/01/2025 21:07,
+898,88.0,LOG OUT,/orders,01/05/2025 14:13,MOBILE
+565,38.0,purchase,/help,2025-03-01T19:50:42Z,Mobile
+1370,83.0,add-to-cart,/orders,2025-06-06T10:48:31Z,desktop
+777,54.0,ADD TO CART,/checkout,2025-05-23 10:31:39,tablet
+242,36.0,clik,/account,2025-03-08 05:26:32,
+14,18.0,PURCHASE,/product/105,2025-03-26T05:46:29Z,desktop
+316,55.0,pageview,/account,2025-04-11T19:47:36Z,
+601,33.0, page_view,/home,27/06/2025 21:47,Tablet
+388,80.0,Search,/home,2025-01-13 09:52:50,
+1298,16.0,logout,/cart,08/03/2025 20:11,
+167,54.0,pageview,/cart,2025-02-09T06:44:43Z,Mobile
+841,18.0,Logout,/cart,2025-02-23 03:23:46,Mobile
+21,65.0,Logout,/product/101,2025-05-14 14:07:43,
+647,41.0,Add_To_Cart,/search,2025-02-07T19:18:09Z,Mobile
+1843,78.0,Logout,/product/101,2025-02-10 15:11:34,MOBILE
+1509,6.0,Logout,/home,06/02/2025 04:54,
+1155,50.0, page_view,/help,31/03/2025 21:31,Mobile
+1529,80.0,CLICK ,/cart,2025-01-22 21:11:00,MOBILE
+832,85.0,Page_View,/search,2025-05-25 19:44:53,Tablet
+1268,67.0,serach,/home,28/01/2025 07:57,Desktop
+1591,12.0,log_out,/home,2025-04-10 19:31:50,
+1900,66.0,pageview,/orders,06/05/2025 03:35,Tablet
+563,31.0,log_out,/products,2025-05-29 03:05:03,tablet
+1952,13.0,ADD TO CART,/orders,2025-02-11T12:15:11Z,mobile
+687,77.0, purchase ,/cart,2025-01-22 13:15:39,
+958,61.0,add_to_cart,/help,2025-06-17 12:35:32,MOBILE
+190,96.0,SEARCH,/orders,21/02/2025 06:39,Tablet
+1807,61.0,purchase,/product/105,2025-04-17T03:27:01Z,
+976,15.0,Purchase,/products,2025-02-25T19:31:19Z,Mobile
+700,2.0,log_out,/orders,2025-05-15 08:19:54,desktop
+1500,19.0,serach,/product/101,2025-04-28T00:33:14Z,tablet
+1706,19.0,LOG OUT,/products,29/04/2025 03:22,
+511,52.0,log_out,/product/105,16/05/2025 00:27,
+1083,61.0,serach,/cart,2025-07-18 19:26:03,Desktop
+475,97.0,Click,/search,2025-07-16 20:26:50,desktop
+1585,88.0,click,/cart,2025-04-29 21:54:12,tablet
+857,84.0,Page_View,/help,28/05/2025 20:35,
+748,87.0,logout,/search,2025-02-02T20:28:40Z,mobile
+253,74.0,Logout,/products,02/03/2025 17:27,Desktop
+22,66.0, page_view,/product/101,27/04/2025 18:03,desktop
+1338,100.0,Search,/help,2025-06-14 13:40:09,Tablet
+460,65.0,SEARCH,/product/101,2025-04-04T13:12:31Z,mobile
+1185,53.0,Purchase,/product/101,2025-03-13T03:00:15Z,desktop
+277,98.0,PAGEVIEW,/product/101,28/01/2025 04:31,
+956,69.0,Purchase,/products,2025-06-17 13:26:26,Mobile
+1216,90.0,add-to-cart,/account,2025-03-26 09:05:15,
+386,64.0,purchase,/home,2025-03-28 23:02:25,Desktop
+806,42.0,Click,/cart,2025-05-22 06:19:19,desktop
+1438,66.0,pageview,/account,2025-03-19 17:08:10,
+1516,18.0, page_view,/products,2025-06-01 10:43:00,
+344,21.0,pageview,/orders,22/02/2025 17:22,desktop
+770,81.0,Purchase,/home,2025-03-06T18:26:18Z,
+1333,, purchase ,/products,2025-06-25T04:49:12Z,Tablet
+1686,94.0,logout,/account,30/05/2025 17:01,Tablet
+131,71.0,PAGEVIEW,/help,2025-05-04T22:01:27Z,MOBILE
+1688,59.0,PURCHASE,/orders,2025-01-16 00:53:34,desktop
+872,18.0,search,/checkout,10/07/2025 07:46,MOBILE
+1124,3.0,add-to-cart,/checkout,2025-07-04T12:35:01Z,tablet
+1397,77.0,log_out,/products,2025-07-01T10:08:37Z,
+88,,Search,/search,24/02/2025 20:47,
+1483,55.0,CLICK ,/cart,21/06/2025 11:16,Mobile
+331,74.0,Add_To_Cart,/help,14/05/2025 23:40,MOBILE
+1239,83.0,purchase,/products,2025-07-11T23:16:10Z,desktop
+467,15.0,Page_View,/cart,2025-05-24 13:27:41,Desktop
+122,30.0,pageview,,07/06/2025 06:51,MOBILE
+1639,22.0,CLICK ,/product/101,2025-05-19T09:29:04Z,Mobile
+1045,29.0,logout,/search,2025-05-08 18:27:04,Mobile
+1551,16.0,click,/home,17/05/2025 04:54,desktop
+1096,17.0,logout,,08/04/2025 06:57,tablet
+1131,6.0,Page_View,/product/105,2025-01-02T11:44:05Z,Tablet
+1295,66.0,ADD TO CART,/home,2025-02-13 18:24:46,
+861,53.0,Search,/help,2025-03-15 10:20:07,tablet
+1460,6.0, page_view,/products,2025-07-06T01:14:53Z,
+1127,44.0,add_to_cart,/search,16/01/2025 16:26,MOBILE

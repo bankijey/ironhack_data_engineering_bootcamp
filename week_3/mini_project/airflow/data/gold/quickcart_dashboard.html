@@ -1,0 +1,58 @@
+<!doctype html>
+<html><head><meta charset="utf-8"><title>QuickCart — gold dashboard</title>
+<style>
+ body{font:14px/1.5 -apple-system,Segoe UI,Roboto,sans-serif;color:#1a1a1a;
+      background:#f6f7f9;margin:0;padding:24px}
+ .wrap{max-width:900px;margin:0 auto}
+ h1{font-size:20px;margin:0 0 4px} h2{font-size:15px;margin:28px 0 10px}
+ .muted{color:#6b7280} .ok{color:#047857}
+ .kpis{display:flex;flex-wrap:wrap;gap:10px;margin:16px 0}
+ .kpi{flex:1 1 130px;background:#fff;border:1px solid #e5e7eb;border-radius:8px;padding:12px}
+ .kpi-v{font-size:22px;font-weight:600} .kpi-l{font-size:12px;color:#6b7280}
+ table{border-collapse:collapse;width:100%;background:#fff}
+ .grid th,.grid td{border:1px solid #e5e7eb;padding:6px 8px;text-align:left;font-size:13px}
+ .grid th{background:#f3f4f6}
+ .bars td{padding:3px 6px;font-size:13px;border:0}
+ .bars .lbl{width:150px} .barcell{width:auto}
+ .bar{display:inline-block;height:12px;background:#2563eb;border-radius:3px}
+ .num{text-align:right;white-space:nowrap}
+ .sev-error td{background:#fef2f2} .sev-warning td{background:#fffbeb}
+ .banner{padding:10px 12px;border-radius:8px;margin:12px 0;
+          background:#fffbeb;
+          border:1px solid #fde68a}
+</style></head><body><div class="wrap">
+<h1>QuickCart — gold dashboard</h1>
+<p class="muted">Run <code>manual__2026-07-27T08:52:11.763711+00:00</code> · logical date 2026-07-27
+ · generated 2026-07-27 08:53 UTC</p>
+
+<div class="banner"><strong>0 error(s), 4 warning(s)</strong>
+ recorded this run. The pipeline completed regardless — nothing was halted.</div>
+
+<div class="kpis"><div class='kpi'><div class='kpi-v'>3,834</div><div class='kpi-l'>Total events</div></div><div class='kpi'><div class='kpi-v'>1,854</div><div class='kpi-l'>Sessions</div></div><div class='kpi'><div class='kpi-v'>0.0%</div><div class='kpi-l'>Bounce rate</div></div><div class='kpi'><div class='kpi-v'>33.8%</div><div class='kpi-l'>Mobile traffic</div></div><div class='kpi'><div class='kpi-v'>22.33%</div><div class='kpi-l'>Desktop traffic</div></div><div class='kpi'><div class='kpi-v'>166</div><div class='kpi-l'>Rows quarantined</div></div></div>
+
+<h2>Data issues</h2>
+<table class='grid'><thead><tr><th>Severity</th><th>Stage</th><th>Target</th><th>Issue</th><th>Rows</th></tr></thead><tbody><tr class='sev-warning'><td>WARNING</td><td>transform</td><td>clickstream</td><td>166 rows quarantined: missing page_url</td><td class='num'>166</td></tr><tr class='sev-warning'><td>WARNING</td><td>validate</td><td>orders.csv</td><td>239 orders dated after the run date 2026-07-27 (latest 2028-04-14)</td><td class='num'>239</td></tr><tr class='sev-warning'><td>WARNING</td><td>validate</td><td>clickstream.csv</td><td>37 duplicate event_id</td><td class='num'>37</td></tr><tr class='sev-warning'><td>WARNING</td><td>validate</td><td>clickstream.csv</td><td>691 rows use DD/MM/YYYY while the rest are ISO 8601 -- parsed day-first</td><td class='num'>691</td></tr><tr class='sev-info'><td>INFO</td><td>transform</td><td>clickstream</td><td>822 rows had no device_type, filled with &#x27;unknown&#x27;</td><td class='num'>822</td></tr><tr class='sev-info'><td>INFO</td><td>transform</td><td>clickstream</td><td>116 events have no customer_id and cannot be sessionised</td><td class='num'>116</td></tr></tbody></table>
+
+<h2>Q3.1 — Most visited pages</h2>
+<table class='bars'><tr><td class='lbl'>/products</td><td class='barcell'><span class='bar' style='width:100.0%'></span></td><td class='num'>424</td><td class='num muted'>11.06%</td></tr><tr><td class='lbl'>/home</td><td class='barcell'><span class='bar' style='width:96.2%'></span></td><td class='num'>408</td><td class='num muted'>10.64%</td></tr><tr><td class='lbl'>/search</td><td class='barcell'><span class='bar' style='width:95.8%'></span></td><td class='num'>406</td><td class='num muted'>10.59%</td></tr><tr><td class='lbl'>/product/105</td><td class='barcell'><span class='bar' style='width:95.8%'></span></td><td class='num'>406</td><td class='num muted'>10.59%</td></tr><tr><td class='lbl'>/account</td><td class='barcell'><span class='bar' style='width:95.3%'></span></td><td class='num'>404</td><td class='num muted'>10.54%</td></tr><tr><td class='lbl'>/orders</td><td class='barcell'><span class='bar' style='width:88.7%'></span></td><td class='num'>376</td><td class='num muted'>9.81%</td></tr><tr><td class='lbl'>/product/101</td><td class='barcell'><span class='bar' style='width:88.2%'></span></td><td class='num'>374</td><td class='num muted'>9.75%</td></tr><tr><td class='lbl'>/cart</td><td class='barcell'><span class='bar' style='width:83.0%'></span></td><td class='num'>352</td><td class='num muted'>9.18%</td></tr><tr><td class='lbl'>/checkout</td><td class='barcell'><span class='bar' style='width:82.5%'></span></td><td class='num'>350</td><td class='num muted'>9.13%</td></tr><tr><td class='lbl'>/help</td><td class='barcell'><span class='bar' style='width:78.8%'></span></td><td class='num'>334</td><td class='num muted'>8.71%</td></tr></table>
+
+<h2>Q3.2 / Q3.3 — Sessions and bounce rate</h2>
+<table class="grid"><tbody>
+<tr><th>Sessions</th><td class="num">1,854</td></tr>
+<tr><th>Distinct customers</th><td class="num">100</td></tr>
+<tr><th>Bounced (single-event) sessions</th><td class="num">0</td></tr>
+<tr><th>Bounce rate</th><td class="num">0.0%</td></tr>
+<tr><th>Avg events per session</th><td class="num">2.01</td></tr>
+</tbody></table>
+<p class="muted">Session = events for one customer split on a
+ 30-minute inactivity gap. This source scatters event timestamps
+ randomly across months with no clustering, so nearly every event lands in its own
+ session and the bounce rate is correspondingly extreme — a property of the data,
+ not the query.</p>
+
+<h2>Q3.4 — Mobile vs desktop traffic</h2>
+<table class='bars'><tr><td class='lbl'>mobile</td><td class='barcell'><span class='bar' style='width:100.0%'></span></td><td class='num'>1,296</td><td class='num muted'>33.8%</td></tr><tr><td class='lbl'>tablet</td><td class='barcell'><span class='bar' style='width:66.4%'></span></td><td class='num'>860</td><td class='num muted'>22.43%</td></tr><tr><td class='lbl'>desktop</td><td class='barcell'><span class='bar' style='width:66.0%'></span></td><td class='num'>856</td><td class='num muted'>22.33%</td></tr><tr><td class='lbl'>unknown</td><td class='barcell'><span class='bar' style='width:63.4%'></span></td><td class='num'>822</td><td class='num muted'>21.44%</td></tr></table>
+
+<h2>Event mix</h2>
+<table class='bars'><tr><td class='lbl'>click</td><td class='barcell'><span class='bar' style='width:100.0%'></span></td><td class='num'>680</td><td class='num muted'>17.74%</td></tr><tr><td class='lbl'>purchase</td><td class='barcell'><span class='bar' style='width:99.4%'></span></td><td class='num'>676</td><td class='num muted'>17.63%</td></tr><tr><td class='lbl'>addtocart</td><td class='barcell'><span class='bar' style='width:93.2%'></span></td><td class='num'>634</td><td class='num muted'>16.54%</td></tr><tr><td class='lbl'>logout</td><td class='barcell'><span class='bar' style='width:92.1%'></span></td><td class='num'>626</td><td class='num muted'>16.33%</td></tr><tr><td class='lbl'>pageview</td><td class='barcell'><span class='bar' style='width:90.9%'></span></td><td class='num'>618</td><td class='num muted'>16.12%</td></tr><tr><td class='lbl'>search</td><td class='barcell'><span class='bar' style='width:88.2%'></span></td><td class='num'>600</td><td class='num muted'>15.65%</td></tr></table>
+</div></body></html>

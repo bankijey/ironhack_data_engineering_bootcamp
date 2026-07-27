@@ -1,0 +1,17 @@
+version: '3'
+services:
+  airflowworkplace:
+    build: .
+    image: airflow:latest
+    env_file:
+      - .env
+    environment:
+      # Defines fs_default up front so FileSensor never races standalone's
+      # default-connection seeding on a cold start. Not a secret, so it lives
+      # here rather than in .env.
+      AIRFLOW_CONN_FS_DEFAULT: '{"conn_type": "fs", "extra": {"path": "/"}}'
+    volumes:
+      - ./airflow:/opt/airflow
+    ports:
+      - "8081:8080"
+    command: airflow standalone

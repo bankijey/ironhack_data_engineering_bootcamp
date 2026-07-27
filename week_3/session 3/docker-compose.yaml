@@ -1,0 +1,11 @@
+version: '3'
+services:
+  airflowworkplace:
+    image: airflow:latest
+    env_file:
+      - .env
+    volumes:
+      - ./airflow:/opt/airflow
+    ports:
+      - "8080:8080"
+    command: airflow standalone

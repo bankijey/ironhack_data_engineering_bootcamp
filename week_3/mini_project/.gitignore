@@ -1,0 +1,20 @@
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Airflow runtime state
+airflow/airflow.cfg
+airflow/airflow.db
+airflow/airflow.db-shm
+airflow/airflow.db-wal
+airflow/logs/
+airflow/simple_auth_manager_passwords.json.generated
+airflow/airflow-webserver.pid
+airflow/standalone_admin_password.txt
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/

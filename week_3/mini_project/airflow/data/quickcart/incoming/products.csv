@@ -1,0 +1,11 @@
+product_id,product_name,category,supplier_id,cost_price,selling_price
+101,Wireless Mouse,Electronics,5,146.86,249.0
+102,Bluetooth Speaker,Electronics,1,377.54,599.0
+103,Office Chair,Furniture,2,726.22,1299.0
+104,Notebook Pack,Stationery,4,61.65,89.0
+105,4K Monitor,Electronics,2,1307.08,1999.0
+106,Desk Lamp,Furniture,5,234.27,349.0
+107,Mechanical Keyboard,Electronics,5,461.79,799.0
+108,Water Bottle,Home & Living,4,91.44,149.0
+109,Standing Desk,Furniture,6,1869.56,2499.0
+110,Backpack,Accessories,5,358.54,499.0

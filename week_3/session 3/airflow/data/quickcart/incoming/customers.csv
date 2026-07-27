@@ -1,0 +1,101 @@
+customer_id,customer_name,email,city,signup_date
+1,William Jennings,william.jennings1@example.com,Dublin,2025-01-29
+2,Diane Newman,diane.newman2@example.com,Manchester,2025-11-06
+3,Samuel Wright,samuel.wright3@example.com,London,2024-08-12
+4,Gillian Barnes,gillian.barnes4@example.com,Lisbon,2025-09-15
+5,Nigel Edwards,nigel.edwards5@example.com,Glasgow,2025-11-23
+6,Ms Rosemary Wright,ms.rosemary.wright6@example.com,Edinburgh,2026-02-07
+7,Tracy Harrison,tracy.harrison7@example.com,Edinburgh,2025-03-16
+8,Gillian Andrews,gillian.andrews8@example.com,Birmingham,2025-03-13
+9,Janice Glover,janice.glover9@example.com,Lisbon,2026-03-06
+10,Wayne Gough,wayne.gough10@example.com,Manchester,2025-12-13
+11,Benjamin Simpson,benjamin.simpson11@example.com,Dublin,2025-04-11
+12,Sean Norton,sean.norton12@example.com,Lisbon,2025-09-26
+13,Dr Gerard Lucas,dr.gerard.lucas13@example.com,Warsaw,2024-09-07
+14,Geoffrey Griffin,geoffrey.griffin14@example.com,Rome,2026-06-10
+15,Mr Adam Palmer,mr.adam.palmer15@example.com,Manchester,2025-06-03
+16,Dr Jonathan Middleton,dr.jonathan.middleton16@example.com,Amsterdam,2024-12-14
+17,Diana Cross-Miah,diana.cross-miah17@example.com,Berlin,2025-09-20
+18,Brenda Briggs,brenda.briggs18@example.com,London,2024-11-12
+19,Miss Frances Holmes,miss.frances.holmes19@example.com,London,2024-12-21
+20,Mrs Pauline Fuller,mrs.pauline.fuller20@example.com,Manchester,2026-02-04
+21,Miss Charlotte Kelly,miss.charlotte.kelly21@example.com,Edinburgh,2026-05-12
+22,Charles Kelly-Morley,charles.kelly-morley22@example.com,Edinburgh,2026-04-01
+23,Bernard Wilkins,bernard.wilkins23@example.com,Rome,2024-10-26
+24,Leonard Powell-Morris,leonard.powell-morris24@example.com,Amsterdam,2025-05-16
+25,Marc Evans,marc.evans25@example.com,London,2026-06-19
+26,Kathryn Hughes,kathryn.hughes26@example.com,Rome,2026-01-01
+27,Mr Martin Johnson,mr.martin.johnson27@example.com,Edinburgh,2026-01-26
+28,Mrs Lorraine Palmer,mrs.lorraine.palmer28@example.com,Lisbon,2026-06-18
+29,Malcolm Coates,malcolm.coates29@example.com,Dublin,2026-03-15
+30,Bethan Atkinson,bethan.atkinson30@example.com,Lisbon,2025-11-10
+31,Aaron Read,aaron.read31@example.com,Rome,2025-03-16
+32,Marion Steele-Harper,marion.steele-harper32@example.com,Berlin,2025-12-08
+33,Wayne Page-Carter,wayne.page-carter33@example.com,Edinburgh,2025-07-11
+34,Aimee Burns,aimee.burns34@example.com,Madrid,2025-10-11
+35,Nigel Gould,nigel.gould35@example.com,Amsterdam,2026-01-05
+36,Arthur Bell,arthur.bell36@example.com,Glasgow,2025-09-13
+37,John Griffiths,john.griffiths37@example.com,Vienna,2025-04-01
+38,Dr Trevor Tomlinson,dr.trevor.tomlinson38@example.com,Brussels,2026-03-27
+39,Patricia Chandler,patricia.chandler39@example.com,London,2026-02-12
+40,Mr Philip Knowles,mr.philip.knowles40@example.com,Vienna,2026-05-14
+41,Holly Hill,holly.hill41@example.com,Vienna,2025-09-18
+42,Kayleigh Mitchell,kayleigh.mitchell42@example.com,Birmingham,2025-11-15
+43,Dean Matthews-Davies,dean.matthews-davies43@example.com,Lisbon,2025-04-08
+44,Eric O'Neill,eric.o'neill44@example.com,Berlin,2024-12-25
+45,Mrs Francesca Naylor,mrs.francesca.naylor45@example.com,Paris,2025-09-05
+46,Deborah Walters,deborah.walters46@example.com,Glasgow,2024-08-31
+47,Christine Taylor,christine.taylor47@example.com,Birmingham,2024-09-08
+48,Olivia King,olivia.king48@example.com,Edinburgh,2024-12-17
+49,Jemma Allen,jemma.allen49@example.com,Vienna,2025-01-07
+50,Dennis Bates,dennis.bates50@example.com,Paris,2024-09-26
+51,Miss Kirsty Ali,miss.kirsty.ali51@example.com,Manchester,2026-03-17
+52,Hazel Lambert,hazel.lambert52@example.com,Manchester,2025-10-16
+53,Nicole Briggs,nicole.briggs53@example.com,Berlin,2026-02-01
+54,Catherine Bates,catherine.bates54@example.com,Manchester,2025-07-31
+55,Kirsty Akhtar,kirsty.akhtar55@example.com,Paris,2025-06-09
+56,Mr Ross Mann,mr.ross.mann56@example.com,Brussels,2026-03-12
+57,Jessica Riley,jessica.riley57@example.com,Paris,2025-08-03
+58,Joanne Bennett,joanne.bennett58@example.com,Amsterdam,2026-03-07
+59,Yvonne Jones,yvonne.jones59@example.com,Glasgow,2024-12-17
+60,Mrs Jennifer Lamb,mrs.jennifer.lamb60@example.com,Vienna,2026-06-10
+61,Carole Hussain-Booth,carole.hussain-booth61@example.com,London,2025-12-14
+62,Dr Martin Barrett,dr.martin.barrett62@example.com,Lisbon,2024-12-20
+63,Leah Newman,leah.newman63@example.com,Madrid,2024-09-01
+64,Mrs Jessica Jackson,mrs.jessica.jackson64@example.com,Rome,2025-07-07
+65,Mr Matthew Hunt,mr.matthew.hunt65@example.com,Manchester,2024-09-15
+66,Janet Wright,janet.wright66@example.com,Warsaw,2025-11-05
+67,Nicole Baldwin,nicole.baldwin67@example.com,Berlin,2026-04-05
+68,Leah Wright,leah.wright68@example.com,Manchester,2025-09-27
+69,Miss Danielle Martin,miss.danielle.martin69@example.com,Rome,2025-12-04
+70,Holly Byrne,holly.byrne70@example.com,Glasgow,2025-11-03
+71,Fiona Saunders-Mitchell,fiona.saunders-mitchell71@example.com,Brussels,2024-09-09
+72,Graeme Turner,graeme.turner72@example.com,Dublin,2026-06-18
+73,Sara Dobson,sara.dobson73@example.com,Amsterdam,2025-01-22
+74,Mrs Lesley Charlton,mrs.lesley.charlton74@example.com,Warsaw,2024-11-08
+75,Dr Stewart Robinson,dr.stewart.robinson75@example.com,Brussels,2026-02-05
+76,Christopher King,christopher.king76@example.com,Paris,2025-08-13
+77,Lee Singh,lee.singh77@example.com,Amsterdam,2024-10-23
+78,Michelle Cox,michelle.cox78@example.com,Edinburgh,2024-11-06
+79,Sylvia Kelly-Ward,sylvia.kelly-ward79@example.com,Lisbon,2025-11-14
+80,Dr Howard Jones,dr.howard.jones80@example.com,Manchester,2026-04-15
+81,Mr Jordan Thomson,mr.jordan.thomson81@example.com,London,2026-02-21
+82,Susan Shepherd,susan.shepherd82@example.com,Dublin,2024-10-20
+83,Amanda Cox-Fisher,amanda.cox-fisher83@example.com,Edinburgh,2025-05-16
+84,Victoria Tucker,victoria.tucker84@example.com,Vienna,2026-03-31
+85,Teresa Fowler,teresa.fowler85@example.com,Glasgow,2025-04-05
+86,Liam Sykes,liam.sykes86@example.com,Manchester,2024-08-19
+87,Mrs Eleanor Kelly,mrs.eleanor.kelly87@example.com,Brussels,2025-01-11
+88,Stacey Porter,stacey.porter88@example.com,Edinburgh,2026-03-31
+89,Ms Elaine Taylor,ms.elaine.taylor89@example.com,Brussels,2026-06-04
+90,Mr Russell Jennings,mr.russell.jennings90@example.com,Manchester,2025-12-18
+91,Dr Hollie Taylor,dr.hollie.taylor91@example.com,Berlin,2026-02-08
+92,Tracy Greenwood-Griffiths,tracy.greenwood-griffiths92@example.com,Glasgow,2026-03-23
+93,Dr Jamie Ryan,dr.jamie.ryan93@example.com,Madrid,2026-04-24
+94,Miss Pauline Wilson,miss.pauline.wilson94@example.com,Dublin,2025-10-26
+95,Miss Olivia Taylor,miss.olivia.taylor95@example.com,Brussels,2026-05-28
+96,Melanie Hart-Matthews,melanie.hart-matthews96@example.com,Paris,2026-06-07
+97,Roger Singh,roger.singh97@example.com,Birmingham,2024-10-09
+98,Louise Jackson-Robinson,louise.jackson-robinson98@example.com,Paris,2024-08-16
+99,Charlie Ward,charlie.ward99@example.com,Paris,2026-01-22
+100,Mrs Lorraine Sutton,mrs.lorraine.sutton100@example.com,Edinburgh,2024-12-01
