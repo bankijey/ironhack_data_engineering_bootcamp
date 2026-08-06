@@ -1,0 +1,6 @@
+order_id,customer,product,amount
+1001,Alice,Laptop,75000
+1002,Bob,Mouse,1200
+1003,Alice,Keyboard,2500
+1004,Charlie,Monitor,15000
+1005,Bob,Phone,65000
